@@ -7,4 +7,4 @@ def uppercase(str):
             new = new + chr(j)
         else:
             new = new + i
-    print(new)
+    print("{}".format(new))
