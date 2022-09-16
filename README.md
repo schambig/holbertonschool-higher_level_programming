@@ -2,29 +2,36 @@
 
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)<!--@schambig-->
 ![GitHub last commit](https://img.shields.io/github/last-commit/schambig/holbertonschool-higher_level_programming)<!--@schambig-->
-[![Py|Py](https://img.shields.io/badge/Repo-106%20commits-orange.svg)](https://sourcerer.io/schambig)<!--@schambig-->
+[![Py|Py](https://img.shields.io/badge/Repo-107%20commits-orange.svg)](https://sourcerer.io/schambig)<!--@schambig-->
 
-# Holbertonschool Higher-level Programming<!--@schambig-->
+# High-level Programming<!--@schambig-->
 
 [Description](#description)</a> • [Projects](#projects)<!--@schambig-->
 
-![Repo image](https://i.imgur.com/WKzunpQ.jpg)
+![Repo image<!--@schambig-->](https://i.imgur.com/WKzunpQ.jpg)
 
 ---
 
 ## Description<!--@schambig-->
 
-C is an imperative, procedural programming language. It was initially developed by Dennis Ritchie between 1969 and 1973. It was mainly developed as a system programming language to write operating system. The main features of C language include low-level access to memory, simple set of keywords, and clean style, these features make C language suitable for system programming like operating system or compiler development.
+Python is an incredibly efficient language: your programs will do more in fewer lines of code than many other languages would require. Python’s syntax will also 
+help you write “clean” code. Your code will be easy to read, easy to debug, and easy to extend and build upon compared to other languages.
 
-But why learn C?, here are **some** of the important advantages of learning C programming:
+People use Python for many purposes: to make games, build web applications, solve business problems, and develop internal tools at all kinds of interesting companies. Python is also used heavily in scientific fields for academic research and applied work.
 
-* **C is a Middle-Level Language**, C gives as a good opportunity to interact with hardware, It reduces the gap between the low-level and high-level languages. It can be used for writing operating systems as well as doing application level programming.
-* **Helps to understand the fundamentals of Computer Theories**, Most of the theories related to computers like Computer Networks, Compiler Designing, Computer Architecture, Operating Systems are based on C programming language and requires a good knowledge of C.
-* **C is very fast in terms of execution time**, Programs written and compiled in C execute much faster than compared to any other programming language.
-* **It will be easier to learn other programming languages**, Because so many different programming languages are based on or related to C, your knowledge of C will simplify the process of learning other languages. These languages typically share similar syntax, operators, control statements, data types and more.
-* **The structure simplifies testing and debugging**, The C programming language is a strongly typed language, meaning data structures and variables must be declared in advance. As such, the compiler is able to enforce proper usage of these declared types and catch a variety of bugs at compile-time.
+One of the most important reasons that makes Python a really good choice is its community. Community is essential to programmers because programming isn’t a solitary pursuit.
 
-This repository contains projects developed using C language.
+Here are **some** of the reasons why Python is such an awesome language, Python is:
+
+* **Interpreted**, Python is processed at runtime by the interpreter. i.e you do not need to compile your program before executing it.
+* **Interactive**, You can interact with the interpreter directly to write your programs.
+* **Portable**, It can run on wide range of hardware Platforms.  
+* **bject-Oriented**, Python supports Object-Oriented style and Procedural Paradigms.
+* Used as a **scripting language** or can be **compiled** to byte-code for building large applications.
+* It has **simple structure**, and a clearly defined syntax.
+* Source code is comparatively easy-to-maintain.
+* Has a huge collection of standard library.
+
 
 ## Projects<!--@schambig-->
 
@@ -34,8 +41,12 @@ Please follow the next directory order:
 
 | Project Directory | Summary |
 | --- | --- |
-|
-| <pre>[search_algorithms](search_algorithms)</pre><!--@schambig--> |  |
+| <pre>[python-hello_world](python-hello_world)</pre><!--@schambig--> |  |
+| <pre>[python-if_else_loops_functions](python-if_else_loops_functions)</pre><!--@schambig--> |  |
+| <pre>[python-import_modules](python-import_modules)</pre><!--@schambig--> |  |
+| <pre>[python-data_structures](python-data_structures)</pre><!--@schambig--> |  |
+| <pre>[python-more_data_structures](python-more_data_structures)</pre><!--@schambig--> |  |
+| <pre>[python-exceptions](python-exceptions)</pre><!--@schambig--> |  |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
