@@ -77,7 +77,7 @@ Namespaces are one honking great idea -- let's do more of those!
 
 ## File structure<!--@schambig-->
 
-This table contains a brief description of the working files of the project, click on the names to get the source code.
+This table contains a brief description of the working files of the project, click on the names to get the source code:
 
 * All these files were interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 * All these source code use the pycodestyle (version 2.7.*)
