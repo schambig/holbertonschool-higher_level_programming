@@ -1,1 +1,42 @@
-holbertonschool-higher_level_programming
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'><!--@schambig-->
+
+![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)<!--@schambig-->
+![GitHub last commit](https://img.shields.io/github/last-commit/schambig/holbertonschool-higher_level_programming)<!--@schambig-->
+[![Py|Py](https://img.shields.io/badge/Repo-106%20commits-orange.svg)](https://sourcerer.io/schambig)<!--@schambig-->
+
+# Holbertonschool Higher-level Programming<!--@schambig-->
+
+[Description](#description)</a> • [Projects](#projects)<!--@schambig-->
+
+![Repo image](https://i.imgur.com/WKzunpQ.jpg)
+
+---
+
+## Description<!--@schambig-->
+
+C is an imperative, procedural programming language. It was initially developed by Dennis Ritchie between 1969 and 1973. It was mainly developed as a system programming language to write operating system. The main features of C language include low-level access to memory, simple set of keywords, and clean style, these features make C language suitable for system programming like operating system or compiler development.
+
+But why learn C?, here are **some** of the important advantages of learning C programming:
+
+* **C is a Middle-Level Language**, C gives as a good opportunity to interact with hardware, It reduces the gap between the low-level and high-level languages. It can be used for writing operating systems as well as doing application level programming.
+* **Helps to understand the fundamentals of Computer Theories**, Most of the theories related to computers like Computer Networks, Compiler Designing, Computer Architecture, Operating Systems are based on C programming language and requires a good knowledge of C.
+* **C is very fast in terms of execution time**, Programs written and compiled in C execute much faster than compared to any other programming language.
+* **It will be easier to learn other programming languages**, Because so many different programming languages are based on or related to C, your knowledge of C will simplify the process of learning other languages. These languages typically share similar syntax, operators, control statements, data types and more.
+* **The structure simplifies testing and debugging**, The C programming language is a strongly typed language, meaning data structures and variables must be declared in advance. As such, the compiler is able to enforce proper usage of these declared types and catch a variety of bugs at compile-time.
+
+This repository contains projects developed using C language.
+
+## Projects<!--@schambig-->
+
+This table contains all the projects of this repository, click on a project name to be redirected to the project.
+
+Please follow the next directory order:
+
+| Project Directory | Summary |
+| --- | --- |
+|
+| <pre>[search_algorithms](search_algorithms)</pre><!--@schambig--> |  |
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
