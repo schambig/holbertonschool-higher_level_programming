@@ -42,7 +42,7 @@ Please follow the next directory order:
 | Project Directory | Summary |
 | --- | --- |
 | <pre>[python-hello_world](python-hello_world)</pre><!--@schambig--> | What is and how to use the Python interpreter, how to print text and variables using `print`, how to use strings, what are indexing and slicing in Python, what is the official Python coding style and how to check your code with `pycodestyle`. |
-| <pre>[python-if_else_loops_functions](python-if_else_loops_functions)</pre><!--@schambig--> |  |
+| <pre>[python-if_else_loops_functions](python-if_else_loops_functions)</pre><!--@schambig--> | Why indentation is so important in Python, How to use the `if`, `if ... else` statements, how to use the `while` and `for` loops, how is Python’s `for` different from `C`‘s?, how to use the `break` and `continues` statements, how to use `else` clauses on loops, and more. |
 | <pre>[python-import_modules](python-import_modules)</pre><!--@schambig--> |  |
 | <pre>[python-data_structures](python-data_structures)</pre><!--@schambig--> |  |
 | <pre>[python-more_data_structures](python-more_data_structures)</pre><!--@schambig--> |  |
