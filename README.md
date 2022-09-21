@@ -2,7 +2,7 @@
 
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)<!--@schambig-->
 ![GitHub last commit](https://img.shields.io/github/last-commit/schambig/holbertonschool-higher_level_programming)<!--@schambig-->
-[![Py|Py](https://img.shields.io/badge/Repo-135%20commits-orange.svg)](https://sourcerer.io/schambig)<!--@schambig-->
+[![Py|Py](https://img.shields.io/badge/Repo-138%20commits-orange.svg)](https://sourcerer.io/schambig)<!--@schambig-->
 
 # High-level Programming<!--@schambig-->
 
@@ -47,6 +47,8 @@ Please follow the next directory order:
 | <pre>[python-data_structures](python-data_structures)</pre><!--@schambig--> |  |
 | <pre>[python-more_data_structures](python-more_data_structures)</pre><!--@schambig--> |  |
 | <pre>[python-exceptions](python-exceptions)</pre><!--@schambig--> |  |
+| <pre>[python-classes](python-classes)</pre><!--@schambig--> |  |
+| <pre>[]()</pre><!--@schambig--> |  |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
