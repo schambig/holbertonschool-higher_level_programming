@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Contains method that prints text with 2 new lines after each ".", "?", and ":"
+Contains method that prints text with 2 new lines after each '.', '?', and ':'
 Takes in a string
 """
 
