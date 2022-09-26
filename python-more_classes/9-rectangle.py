@@ -68,7 +68,7 @@ class Rectangle():
     def height(self, value):
         """ Setter sets height if int > 0 """
         if not isinstance(value, int):
-           raise TypeError("height must be an integer")
+            raise TypeError("height must be an integer")
         if value < 0:
             raise ValueError("height must be >= 0")
         self.__height = value
@@ -111,4 +111,4 @@ class Rectangle():
     @classmethod
     def square(cls, size=0):
         """ Returns new rectangle instance with width == height == size """
-        return cls(size, size) 
+        return cls(size, size)
