@@ -9,7 +9,7 @@ and has static method that returns bigger rectangle out of two given
 
 class Rectangle():
     """
-    Defines class rectangle with private attribute width and height
+    Defines a class rectangle with private attribute width and height
     Args:
         width (int): width
         height (int): height
