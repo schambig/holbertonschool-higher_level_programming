@@ -10,7 +10,7 @@ and has class method that returns a new class instance via square
 
 class Rectangle():
     """
-    Defines class rectangle with private attribute width and height
+    Defines a class rectangle with private attribute width and height
     Args:
         width (int): width
         height (int): height
