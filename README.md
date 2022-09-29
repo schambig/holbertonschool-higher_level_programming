@@ -2,7 +2,7 @@
 
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)<!--@schambig-->
 ![GitHub last commit](https://img.shields.io/github/last-commit/schambig/holbertonschool-higher_level_programming)<!--@schambig-->
-[![Py|Py](https://img.shields.io/badge/Repo-180%20commits-orange.svg)](https://sourcerer.io/schambig)<!--@schambig-->
+[![Py|Py](https://img.shields.io/badge/Repo-194%20commits-orange.svg)](https://sourcerer.io/schambig)<!--@schambig-->
 
 # High-level Programming<!--@schambig-->
 
@@ -47,7 +47,7 @@ Please follow the next directory order:
 | <pre>[python-data_structures](python-data_structures)</pre><!--@schambig--> | What are lists and how to use them, what are the differences and similarities between strings and lists, how to use lists as stacks and queues, what are tuples and how to use them, when to use tuples versus lists, what is the `del` statement and how to use it, and more. |
 | <pre>[python-more_data_structures](python-more_data_structures)</pre><!--@schambig--> | What are sets and how to use them, what are the most common methods of set and how to use them, when to use sets versus lists, what are dictionaries and how to use them, what is a key in a dictionary, what is a lambda function, and more. |
 | <pre>[python-exceptions](python-exceptions)</pre><!--@schambig--> | What’s the difference between errors and exceptions, what are exceptions and how to use them, how to correctly handle an exception, how to raise a builtin exception, when do we need to implement a clean-up action after an exception, and more |
-| <pre>[python-classes](python-classes)</pre><!--@schambig--> |  |
+| <pre>[python-classes](python-classes)</pre><!--@schambig--> | What is OOP, what is a class, what is an object and an instance, what is the difference between a class and an object or instance, what are and how to use public, protected and private attributes, What is `self`, what is a method, What is the special `__init__` method and how to use it, and more. |
 | <pre>[python-test_driven_development](python-test_driven_development)</pre><!--@schambig--> |  |
 | <pre>[python-more_classes](python-more_classes)</pre><!--@schambig--> |  |
 | <pre>[]()</pre><!--@schambig--> |  |
