@@ -48,8 +48,8 @@ Please follow the next directory order:
 | <pre>[python-more_data_structures](python-more_data_structures)</pre><!--@schambig--> | What are sets and how to use them, what are the most common methods of set and how to use them, when to use sets versus lists, what are dictionaries and how to use them, what is a key in a dictionary, what is a lambda function, and more. |
 | <pre>[python-exceptions](python-exceptions)</pre><!--@schambig--> | What’s the difference between errors and exceptions, what are exceptions and how to use them, how to correctly handle an exception, how to raise a builtin exception, when do we need to implement a clean-up action after an exception, and more |
 | <pre>[python-classes](python-classes)</pre><!--@schambig--> | What is OOP, what is a class, what is an object and an instance, what is the difference between a class and an object or instance, what are and how to use public, protected and private attributes, What is `self`, what is a method, What is the special `__init__` method and how to use it, and more. |
-| <pre>[python-test_driven_development](python-test_driven_development)</pre><!--@schambig--> |  |
-| <pre>[python-more_classes](python-more_classes)</pre><!--@schambig--> |  |
+| <pre>[python-test_driven_development](python-test_driven_development)</pre><!--@schambig--> | What’s an interactive test, how to write Docstrings to create tests, how to write documentation for each module and function, what are the basic option flags to create tests, and more. |
+| <pre>[python-more_classes](python-more_classes)</pre><!--@schambig--> | What is Data Abstraction, Data Encapsulation, and Information Hiding, what is a property, what is the Pythonic way to write getters and setters in Python, what are the special `__str__` and `__repr__` methods and how to use them, what is and what does contain `__dict__` of a class and of an instance of a class, and more |
 | <pre>[]()</pre><!--@schambig--> |  |
 | <pre>[]()</pre><!--@schambig--> |  |
 
