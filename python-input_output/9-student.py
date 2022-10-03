@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 Contains class Student that initializes public instance
-attributes first_name, last_name, and age,and has public
+attributes first_name, last_name, and age, and has public
 method to_json that returns dictionary representation
 """
 
