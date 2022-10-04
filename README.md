@@ -2,7 +2,7 @@
 
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)<!--@schambig-->
 ![GitHub last commit](https://img.shields.io/github/last-commit/schambig/holbertonschool-higher_level_programming)<!--@schambig-->
-[![Py|Py](https://img.shields.io/badge/Repo-226%20commits-orange.svg)](https://sourcerer.io/schambig)<!--@schambig-->
+[![Py|Py](https://img.shields.io/badge/Repo-264%20commits-orange.svg)](https://sourcerer.io/schambig)<!--@schambig-->
 
 # High-level Programming<!--@schambig-->
 
@@ -50,6 +50,9 @@ Please follow the next directory order:
 | <pre>[python-classes](python-classes)</pre><!--@schambig--> | What is OOP, what is a class, what is an object and an instance, what is the difference between a class and an object or instance, what are and how to use public, protected and private attributes, What is `self`, what is a method, What is the special `__init__` method and how to use it, and more. |
 | <pre>[python-test_driven_development](python-test_driven_development)</pre><!--@schambig--> | What’s an interactive test, how to write Docstrings to create tests, how to write documentation for each module and function, what are the basic option flags to create tests, and more. |
 | <pre>[python-more_classes](python-more_classes)</pre><!--@schambig--> | What is Data Abstraction, Data Encapsulation, and Information Hiding, what is a property, what is the Pythonic way to write getters and setters in Python, what are the special `__str__` and `__repr__` methods and how to use them, what is and what does contain `__dict__` of a class and of an instance of a class, and more |
+| <pre>[python-everything_is_object](python-everything_is_object)</pre><!--@schambig--> |  |
+| <pre>[python-inheritance](python-inheritance)</pre><!--@schambig--> |  |
+| <pre>[python-input_output](python-input_output)</pre><!--@schambig--> |  |
 | <pre>[]()</pre><!--@schambig--> |  |
 | <pre>[]()</pre><!--@schambig--> |  |
 
