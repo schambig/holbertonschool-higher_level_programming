@@ -2,7 +2,7 @@
 
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)<!--@schambig-->
 ![GitHub last commit](https://img.shields.io/github/last-commit/schambig/holbertonschool-higher_level_programming)<!--@schambig-->
-[![Py|Py](https://img.shields.io/badge/Repo-269%20commits-orange.svg)](https://sourcerer.io/schambig)<!--@schambig-->
+[![Py|Py](https://img.shields.io/badge/Repo-270%20commits-orange.svg)](https://sourcerer.io/schambig)<!--@schambig-->
 
 # High-level Programming<!--@schambig-->
 
@@ -53,7 +53,9 @@ Please follow the next directory order:
 | <pre>[python-everything_is_object](python-everything_is_object)</pre><!--@schambig--> | What is an object, what is the difference between a class and an object or instance, what is the difference between immutable object and mutable object, how to know if two variables are identical, how does Python pass variables to functions, and more. |
 | <pre>[python-inheritance](python-inheritance)</pre><!--@schambig--> | What is a superclass, baseclass or parentclass, how to list all attributes and methods of a class or instance, how to inherit class from another, what is the default class every class inherit from, what are, when and how to use `isinstance`, `issubclass`, `type` and `super` built-in functions, and more. |
 | <pre>[python-input_output](python-input_output)</pre><!--@schambig--> | How to open a file, how to write text in a file, how to read the full content of a file, how to make sure a file is closed after using it, what is and how to use the `with` statement, what is `JSON`, what is serialization and deserialization, and more. |
-| <pre>[python-almost_a_circle](python-almost_a_circle)</pre><!--@schambig--> |  |
+| <pre>[python-almost_a_circle](python-almost_a_circle)</pre><!--@schambig--> | What is Unit testing and how to implement it in a large project, how to serialize and deserialize a Class, What are `*args`, `**kwargs` and how to use them, how to handle named arguments in a function, and more. |
+| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[]()</pre><!--@schambig--> |  |
 | <pre>[]()</pre><!--@schambig--> |  |
 
 <p align="center">
