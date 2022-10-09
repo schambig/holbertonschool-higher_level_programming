@@ -5,9 +5,13 @@ Module contains class Rectangle
 2. Inherits from Base
 3. Add validation of all setter methods and instantiation (id excluded)
 4. Add public method `def area(self):` which returns the area of Rectangle
-5. Add he public method def `display(self):` which prints to stdout
+5. Add he public method def `display(self):` which prints to stdout using #
 6. Override the __str__ method so that it returns:
     [Rectangle] (<id>) <x>/<y> - <width>/<height>
+7. Improve the public method `def display(self):`, consider x and y
+8. Add the public method `def update(self, *args):` that assigns an argument
+    to each attribute
+9.
 """
 from models.base import Base
 
@@ -98,3 +102,9 @@ class Rectangle(Base):
         str_xy = "{}/{} - ".format(self.x, self.y)
         str_wh = "{}/{}".format(self.width, self.height)
         return str_rectangle + str_id + str_xy + str_wh
+
+    def update(self, *args):
+        """ assign an argument to each attribute """
+        list_atr = ['id', 'width', 'height', 'x', 'y']
+        for i in range(len(args)):
+            setattr(self, list_atr[i], args[i])
