@@ -2,7 +2,9 @@
 """
 Module contains class Rectangle
 
-Inherits from Base
+2. Inherits from Base
+3. Add validation of all setter methods and instantiation (id excluded)
+4. Add public method `def area(self):`
 """
 from models.base import Base
 
@@ -73,3 +75,7 @@ class Rectangle(Base):
         if value < 0:
             raise ValueError("y must be >= 0")
         self.__y = value
+
+    def area(self):
+        """ returns the area of the rectangle object """
+        return self.width * self.height
