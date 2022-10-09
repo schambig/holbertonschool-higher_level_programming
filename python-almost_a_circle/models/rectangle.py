@@ -6,7 +6,7 @@ Module contains class Rectangle
 3. Add validation of all setter methods and instantiation (id excluded)
 4. Add public method `def area(self):` which returns the area of Rectangle
 5. Add he public method def `display(self):` which prints to stdout
-6. 
+6.
 """
 from models.base import Base
 
