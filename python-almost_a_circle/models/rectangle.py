@@ -6,7 +6,8 @@ Module contains class Rectangle
 3. Add validation of all setter methods and instantiation (id excluded)
 4. Add public method `def area(self):` which returns the area of Rectangle
 5. Add he public method def `display(self):` which prints to stdout
-6.
+6. Override the __str__ method so that it returns:
+    [Rectangle] (<id>) <x>/<y> - <width>/<height>
 """
 from models.base import Base
 
@@ -87,5 +88,12 @@ class Rectangle(Base):
         rectangle = ""
         for i in range(self.height):
             rectangle += ("#" * self.width) + "\n"
-
         print(rectangle, end="")
+
+    def __str__(self):
+        """ returns an “informal” string representation of an instance """
+        str_rectangle = "[Rectangle] "
+        str_id = "({}) ".format(self.id)
+        str_xy = "{}/{} - ".format(self.x, self.y)
+        str_wh = "{}/{}".format(self.width, self.height)
+        return str_rectangle + str_id + str_xy + str_wh
