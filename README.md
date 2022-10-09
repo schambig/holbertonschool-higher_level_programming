@@ -2,7 +2,7 @@
 
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)<!--@schambig-->
 ![GitHub last commit](https://img.shields.io/github/last-commit/schambig/holbertonschool-higher_level_programming)<!--@schambig-->
-[![Py|Py](https://img.shields.io/badge/Repo-226%20commits-orange.svg)](https://sourcerer.io/schambig)<!--@schambig-->
+[![Py|Py](https://img.shields.io/badge/Repo-270%20commits-orange.svg)](https://sourcerer.io/schambig)<!--@schambig-->
 
 # High-level Programming<!--@schambig-->
 
@@ -50,6 +50,11 @@ Please follow the next directory order:
 | <pre>[python-classes](python-classes)</pre><!--@schambig--> | What is OOP, what is a class, what is an object and an instance, what is the difference between a class and an object or instance, what are and how to use public, protected and private attributes, What is `self`, what is a method, What is the special `__init__` method and how to use it, and more. |
 | <pre>[python-test_driven_development](python-test_driven_development)</pre><!--@schambig--> | What’s an interactive test, how to write Docstrings to create tests, how to write documentation for each module and function, what are the basic option flags to create tests, and more. |
 | <pre>[python-more_classes](python-more_classes)</pre><!--@schambig--> | What is Data Abstraction, Data Encapsulation, and Information Hiding, what is a property, what is the Pythonic way to write getters and setters in Python, what are the special `__str__` and `__repr__` methods and how to use them, what is and what does contain `__dict__` of a class and of an instance of a class, and more |
+| <pre>[python-everything_is_object](python-everything_is_object)</pre><!--@schambig--> | What is an object, what is the difference between a class and an object or instance, what is the difference between immutable object and mutable object, how to know if two variables are identical, how does Python pass variables to functions, and more. |
+| <pre>[python-inheritance](python-inheritance)</pre><!--@schambig--> | What is a superclass, baseclass or parentclass, how to list all attributes and methods of a class or instance, how to inherit class from another, what is the default class every class inherit from, what are, when and how to use `isinstance`, `issubclass`, `type` and `super` built-in functions, and more. |
+| <pre>[python-input_output](python-input_output)</pre><!--@schambig--> | How to open a file, how to write text in a file, how to read the full content of a file, how to make sure a file is closed after using it, what is and how to use the `with` statement, what is `JSON`, what is serialization and deserialization, and more. |
+| <pre>[python-almost_a_circle](python-almost_a_circle)</pre><!--@schambig--> | What is Unit testing and how to implement it in a large project, how to serialize and deserialize a Class, What are `*args`, `**kwargs` and how to use them, how to handle named arguments in a function, and more. |
+| <pre>[]()</pre><!--@schambig--> |  |
 | <pre>[]()</pre><!--@schambig--> |  |
 | <pre>[]()</pre><!--@schambig--> |  |
 
