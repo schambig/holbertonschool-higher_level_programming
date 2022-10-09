@@ -11,7 +11,8 @@ Module contains class Rectangle
 7. Improve the public method `def display(self):`, consider x and y
 8. Add the public method `def update(self, *args):` that assigns an argument
     to each attribute
-9.
+9. Update `def update(self, *args):` to `update(self, *args, **kwargs):`
+    which assigns a key/value argument to attributes
 """
 from models.base import Base
 
@@ -103,8 +104,12 @@ class Rectangle(Base):
         str_wh = "{}/{}".format(self.width, self.height)
         return str_rectangle + str_id + str_xy + str_wh
 
-    def update(self, *args):
-        """ assign an argument to each attribute """
-        list_atr = ['id', 'width', 'height', 'x', 'y']
-        for i in range(len(args)):
-            setattr(self, list_atr[i], args[i])
+    def update(self, *args, **kwargs):
+        """ assign an argument/key-value argument to each attribute """
+        if args is not None and len(args) is not 0:
+            list_atr = ['id', 'width', 'height', 'x', 'y']
+            for i in range(len(args)):
+                setattr(self, list_atr[i], args[i])
+        else:
+            for key, value in kwargs.items():
+                setattr(self, key, value)
