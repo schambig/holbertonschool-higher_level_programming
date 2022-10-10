@@ -3,6 +3,11 @@
 Module contains class Square
 
 10. Inherits from Rectangle
+11. Add the public getter and setter size
+12. Add the public method `def update(self, *args, **kwargs):`
+    that assigns attributes
+14. Add the public method `def to_dictionary(self):`
+    that returns the dictionary representation of a Square
 """
 
 
@@ -52,3 +57,15 @@ class Square(Rectangle):
                     setattr(self, 'height', value)
                 else:
                     setattr(self, key, value)
+
+    def to_dictionary(self):
+        """ returns the dictionary representation of a Square """
+        list_atr = ['id', 'size', 'x', 'y']
+        dict_rep = {}
+
+        for key in list_atr:
+            if key == 'size':
+                dict_rep[key] = getattr(self, 'width')
+            else:
+                dict_rep[key] = getattr(self, key)
+        return dict_rep
