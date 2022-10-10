@@ -9,10 +9,15 @@ Module contains class Base
     that writes the JSON string representation of list_objs to a file
 17. Add  the static method `def from_json_string(json_string):`
     that returns the list of the JSON string representation json_string
+18. Add the class method `def create(cls, **dictionary):`
+    that returns an instance with all attributes already set
+19. Add the class method `def load_from_file(cls):`    
+    that returns a list of instances
 """
 
 
 import json
+import os.path
 
 
 class Base:
@@ -75,3 +80,21 @@ class Base:
             uwu = cls(6, 6)
         uwu.update(**dictionary)
         return uwu
+
+    @classmethod
+    def load_from_file(cls):
+        """ returns a list of instances """
+        filename = "{}.json".format(cls.__name__)
+
+        if os.path.exists(filename) is False:
+            return []
+
+        with open(filename, 'r') as f:
+            list_str = f.read()
+
+        list_cls = cls.from_json_string(list_str)
+        list_ins = []
+
+        for index in range(len(list_cls)):
+            list_ins.append(cls.create(**list_cls[index]))
+        return list_ins
