@@ -7,6 +7,8 @@ Module contains class Base
     that returns the JSON string representation of list_dictionaries
 16. Add the class method `def save_to_file(cls, list_objs):`
     that writes the JSON string representation of list_objs to a file
+17. Add  the static method `def from_json_string(json_string):`
+    that returns the list of the JSON string representation json_string
 """
 
 
@@ -55,3 +57,11 @@ class Base:
 
         with open(filename, 'w') as fd:
             fd.write(lists)
+
+    @staticmethod
+    def from_json_string(json_string):
+        """ JSON string to dictionary """
+        if json_string is None:
+            return []
+        else:
+            return json.loads(json_string)
