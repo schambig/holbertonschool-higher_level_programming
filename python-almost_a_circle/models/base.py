@@ -11,7 +11,7 @@ Module contains class Base
     that returns the list of the JSON string representation json_string
 18. Add the class method `def create(cls, **dictionary):`
     that returns an instance with all attributes already set
-19. Add the class method `def load_from_file(cls):`    
+19. Add the class method `def load_from_file(cls):`
     that returns a list of instances
 """
 
