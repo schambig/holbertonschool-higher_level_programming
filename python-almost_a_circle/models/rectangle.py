@@ -13,6 +13,8 @@ Module contains class Rectangle
     to each attribute
 9. Update `def update(self, *args):` to `update(self, *args, **kwargs):`
     which assigns a key/value argument to attributes
+13. Add the public method `def to_dictionary(self):`
+    which returns the dictionary representation of a Rectangle
 """
 from models.base import Base
 
@@ -113,3 +115,12 @@ class Rectangle(Base):
         else:
             for key, value in kwargs.items():
                 setattr(self, key, value)
+
+    def to_dictionary(self):
+        """ returns the dictionary representation of a Rectangle """
+        list_atr = ['id', 'width', 'height', 'x', 'y']
+        dict_rep = {}
+
+        for key in list_atr:
+            dict_rep[key] = getattr(self, key)
+        return dict_rep
