@@ -5,6 +5,8 @@ Module contains class Base
 1.  Contains private class __nb_objects, and class constructor __init__
 15. Add the static method `def to_json_string(list_dictionaries):`
     that returns the JSON string representation of list_dictionaries
+16. Add the class method `def save_to_file(cls, list_objs):`
+    that writes the JSON string representation of list_objs to a file
 """
 
 
@@ -36,3 +38,20 @@ class Base:
             return "[]"
         else:
             return json.dumps(list_dictionaries)
+
+    @classmethod
+    def save_to_file(cls, list_objs):
+        """ JSON string to file """
+        filename = "{}.json".format(cls.__name__)
+
+        list_dic = []
+        if list_objs is None:
+            pass
+        else:
+            for i in range(len(list_objs)):
+                list_dic.append(list_objs[i].to_dictionary())
+
+        lists = cls.to_json_string(list_dic)
+
+        with open(filename, 'w') as fd:
+            fd.write(lists)
