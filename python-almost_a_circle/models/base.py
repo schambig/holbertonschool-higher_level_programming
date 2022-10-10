@@ -2,8 +2,13 @@
 """
 Module contains class Base
 
-Contains private class __nb_objects, and class constructor __init__
+1.  Contains private class __nb_objects, and class constructor __init__
+15. Add the static method `def to_json_string(list_dictionaries):`
+    that returns the JSON string representation of list_dictionaries
 """
+
+
+import json
 
 
 class Base:
@@ -23,3 +28,11 @@ class Base:
         else:
             Base.__nb_objects += 1
             self.id = Base.__nb_objects
+
+    @staticmethod
+    def to_json_string(list_dictionaries):
+        """ list of dictionaries to JSON string """
+        if list_dictionaries is None or list_dictionaries == "[]":
+           return "[]"
+        else:
+            return json.dumps(list_dictionaries)
