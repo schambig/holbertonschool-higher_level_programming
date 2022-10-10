@@ -95,6 +95,6 @@ class Base:
         list_cls = cls.from_json_string(list_str)
         list_ins = []
 
-        for index in range(len(list_cls)):
-            list_ins.append(cls.create(**list_cls[index]))
+        for i in range(len(list_cls)):
+            list_ins.append(cls.create(**list_cls[i]))
         return list_ins
