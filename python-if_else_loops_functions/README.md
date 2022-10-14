@@ -50,17 +50,22 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[0-positive_or_negative.py](0-positive_or_negative.py)</pre><!--@schambig--> |  |
+| <pre>[1-last_digit.py](1-last_digit.py)</pre><!--@schambig--> |  |
+| <pre>[2-print_alphabet.py](2-print_alphabet.py)</pre><!--@schambig--> |  |
+| <pre>[3-print_alphabt.py](3-print_alphabt.py)</pre><!--@schambig--> |  |
+| <pre>[4-print_hexa.py](4-print_hexa.py)</pre><!--@schambig--> |  |
+| <pre>[5-print_comb2.py](5-print_comb2.py)</pre><!--@schambig--> |  |
+| <pre>[6-print_comb3.py](6-print_comb3.py)</pre><!--@schambig--> |  |
+| <pre>[7-islower.py](7-islower.py)</pre><!--@schambig--> |  |
+| <pre>[8-uppercase.py](8-uppercase.py)</pre><!--@schambig--> |  |
+| <pre>[9-print_last_digit.py](9-print_last_digit.py)</pre><!--@schambig--> |  |
+| <pre>[10-add.py](10-add.py)</pre><!--@schambig--> |  |
+| <pre>[11-pow.py](11-pow.py)</pre><!--@schambig--> |  |
+| <pre>[12-fizzbuzz.py](12-fizzbuzz.py)</pre><!--@schambig--> |  |
+| <pre>[100-print_tebahpla.py](100-print_tebahpla.py)</pre><!--@schambig--> |  |
+| <pre>[101-remove_char_at.py](101-remove_char_at.py)</pre><!--@schambig--> |  |
+| <pre>[102-magic_calculation.py](102-magic_calculation.py)</pre><!--@schambig--> |  |
 
 ## Usage<!--@schambig-->
 
