@@ -78,7 +78,7 @@ $ git clone https://github.com/schambig/holbertonschool-higher_level_programming
 Then, go to the project directory:
 
 ```
-$ cd python-if_else_loops_functions/
+$ cd python-if_else_loops_functions
 ```
 
 Finally, you can execute the scripts:
