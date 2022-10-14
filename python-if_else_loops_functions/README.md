@@ -2,7 +2,7 @@
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)<!--@schambig-->
 ![GitHub last commit](https://img.shields.io/github/last-commit/schambig/holbertonschool-higher_level_programming)<!--@schambig-->
-[![C|C](https://img.shields.io/badge/Repo-35%20commits-orange.svg)](https://sourcerer.io/schambig)<!--@schambig-->
+[![C|C](https://img.shields.io/badge/Repo-37%20commits-orange.svg)](https://sourcerer.io/schambig)<!--@schambig-->
 
 # Python if-else loops and functions<!--@schambig-->
 
@@ -61,7 +61,7 @@ This table contains a brief description of the working files of the project, cli
 | Filename | Description/Task |
 | --- | --- |
 | <pre>[0-positive_or_negative.py](0-positive_or_negative.py)</pre><!--@schambig--> | This program will assign a random signed number to the variable `number` each time it is executed. Complete this [source code](https://github.com/holbertonschool/0x01.py/blob/master/0-positive_or_negative_py) in order to print whether the number stored in the variable `number` is positive or negative. |
-| <pre>[1-last_digit.py](1-last_digit.py)</pre><!--@schambig--> | This program will assign a random signed number to the variable `number` each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable `number`. |
+| <pre>[1-last_digit.py](1-last_digit.py)</pre><!--@schambig--> | This program will assign a random signed number to the variable `number` each time it is executed. Complete this [source code](https://github.com/holbertonschool/0x01.py/blob/master/1-last_digit_py) in order to print the last digit of the number stored in the variable `number`. |
 | <pre>[2-print_alphabet.py](2-print_alphabet.py)</pre><!--@schambig--> |  |
 | <pre>[3-print_alphabt.py](3-print_alphabt.py)</pre><!--@schambig--> |  |
 | <pre>[4-print_hexa.py](4-print_hexa.py)</pre><!--@schambig--> |  |
