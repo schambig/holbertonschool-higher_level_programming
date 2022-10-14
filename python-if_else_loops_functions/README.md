@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/schambig/holbertonschool-higher_level_programming)<!--@schambig-->
 [![C|C](https://img.shields.io/badge/Repo-00%20commits-orange.svg)](https://sourcerer.io/schambig)<!--@schambig-->
 
-# Python hello-world<!--@schambig-->
+# Python if-else loops and functions<!--@schambig-->
 
 [Description](#description) • [Resources](#resources) • <!--@schambig-->[File Structure](#file-structure) • [Usage](#usage)
 
@@ -18,8 +18,21 @@ This project ... .
 
 After this project I was able to [explain to anyone](https://fs.blog/feynman-learning-technique/):
 
-* This
-* Also this
+* Why indentation is so important in Python
+* How to use the `if`, `if ... else` statements
+* How to use comments
+* How to affect values to variables
+* How to use the `while` and `for` loops
+* How is Python’s `for` different from `C`‘s?
+* How to use the `break` and `continues` statements
+* How to use `else` clauses on loops
+* What does the `pass` statement do, and when to use it
+* How to use `range`
+* What is a function and how do you use functions
+* What does return a function that does not use any `return` statement
+* Scope of variables
+* What’s a traceback
+* What are the arithmetic operators and how to use them
 
 ## Resources<!--@schambig-->
 
