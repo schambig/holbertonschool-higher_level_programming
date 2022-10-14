@@ -36,23 +36,20 @@ After this project I was able to [explain to anyone](https://fs.blog/feynman-lea
 
 ## Resources<!--@schambig-->
 
-Important concepts for this project:
+Important concepts to help you undestand this project:
 
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [More Control Flow Tools](https://docs.python.org/3/tutorial/controlflow.html) (Read until “4.6. Defining Functions” included)
+* [Indentation in Python](https://www.programiz.com/python-programming/statement-indentation-comments)
+* [IndentationError](https://www.youtube.com/watch?v=1QXOd2ZQs-Q)
+* [How To Use String Formatters in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3)
+* [Learn to Program](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
+* [Learn to Program 2 : Looping](https://www.youtube.com/watch?v=swQEbZ6ez1I&list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt&index=2)
+* [Pycodestyle – Style Guide for Python Code](https://pypi.org/project/pycodestyle/)
 
-More valuable resources to help you understand this project:
+Also don't forget to check the man pages:
 
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* man python3
+
 
 ## File structure<!--@schambig-->
 
