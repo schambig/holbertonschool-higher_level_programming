@@ -55,8 +55,7 @@ Please follow the next directory order:
 | <pre>[python-input_output](python-input_output)</pre><!--@schambig--> | How to open a file, how to write text in a file, how to read the full content of a file, how to make sure a file is closed after using it, what is and how to use the `with` statement, what is `JSON`, what is serialization and deserialization, and more. |
 | <pre>[python-almost_a_circle](python-almost_a_circle)</pre><!--@schambig--> | What is Unit testing and how to implement it in a large project, how to serialize and deserialize a Class, What are `*args`, `**kwargs` and how to use them, how to handle named arguments in a function, and more. |
 | <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
