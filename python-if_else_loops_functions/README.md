@@ -65,7 +65,7 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[2-print_alphabet.py](2-print_alphabet.py)</pre><!--@schambig--> | Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line. You can only use one `print` function with string format, only use one loop in your code, not allowed to store characters in a variable, not allowed to import any module. |
 | <pre>[3-print_alphabt.py](3-print_alphabt.py)</pre><!--@schambig--> | Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line, print all the letters except `q` and `e`, only use one `print` function with string format, only use one loop in your code. |
 | <pre>[4-print_hexa.py](4-print_hexa.py)</pre><!--@schambig--> | Write a program that prints all numbers from `0` to `98` in decimal and in hexadecimal, only use one print function with string format, only use one loop in your code. |
-| <pre>[5-print_comb2.py](5-print_comb2.py)</pre><!--@schambig--> |  |
+| <pre>[5-print_comb2.py](5-print_comb2.py)</pre><!--@schambig--> | Write a program that prints numbers from `0` to `99`, in ascending order, with two digits, only use no more than 2 `print` functions with string format, only use one loop in your code, in ascending order. |
 | <pre>[6-print_comb3.py](6-print_comb3.py)</pre><!--@schambig--> |  |
 | <pre>[7-islower.py](7-islower.py)</pre><!--@schambig--> |  |
 | <pre>[8-uppercase.py](8-uppercase.py)</pre><!--@schambig--> |  |
