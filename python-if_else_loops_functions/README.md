@@ -69,7 +69,7 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[6-print_comb3.py](6-print_comb3.py)</pre><!--@schambig--> | Write a program that prints all possible different combinations of two digits, separated by ,, followed by a space, `01` and `10` are considered the same combination of the two digits `0` and `1`, only use no more than 3 `print` functions with string format. |
 | <pre>[7-islower.py](7-islower.py)</pre><!--@schambig--> | Write a function that checks for lowercase character. |
 | <pre>[8-uppercase.py](8-uppercase.py)</pre><!--@s, chambig--> | Write a function that prints a string in uppercase followed by a new line. |
-| <pre>[9-print_last_digit.py](9-print_last_digit.py)</pre><!--@schambig--> |  |
+| <pre>[9-print_last_digit.py](9-print_last_digit.py)</pre><!--@schambig--> | Write a function that prints the last digit of a number. |
 | <pre>[10-add.py](10-add.py)</pre><!--@schambig--> |  |
 | <pre>[11-pow.py](11-pow.py)</pre><!--@schambig--> |  |
 | <pre>[12-fizzbuzz.py](12-fizzbuzz.py)</pre><!--@schambig--> |  |
