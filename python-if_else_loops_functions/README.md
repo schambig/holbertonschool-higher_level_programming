@@ -71,7 +71,7 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[8-uppercase.py](8-uppercase.py)</pre><!--@s, chambig--> | Write a function that prints a string in uppercase followed by a new line. |
 | <pre>[9-print_last_digit.py](9-print_last_digit.py)</pre><!--@schambig--> | Write a function that prints the last digit of a number. |
 | <pre>[10-add.py](10-add.py)</pre><!--@schambig--> | Write a function that adds two integers and returns the result. |
-| <pre>[11-pow.py](11-pow.py)</pre><!--@schambig--> |  |
+| <pre>[11-pow.py](11-pow.py)</pre><!--@schambig--> | Write a function that computes `a` to the power of `b` and return the value. |
 | <pre>[12-fizzbuzz.py](12-fizzbuzz.py)</pre><!--@schambig--> |  |
 | <pre>[100-print_tebahpla.py](100-print_tebahpla.py)</pre><!--@schambig--> |  |You can only use one print function with string format
 | <pre>[101-remove_char_at.py](101-remove_char_at.py)</pre><!--@schambig--> |  |
