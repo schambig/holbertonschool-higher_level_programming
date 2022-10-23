@@ -67,7 +67,7 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[4-print_hexa.py](4-print_hexa.py)</pre><!--@schambig--> | Write a program that prints all numbers from `0` to `98` in decimal and in hexadecimal, only use one print function with string format, only use one loop in your code. |
 | <pre>[5-print_comb2.py](5-print_comb2.py)</pre><!--@schambig--> | Write a program that prints numbers from `0` to `99`, in ascending order, with two digits, only use no more than 2 `print` functions with string format, only use one loop in your code, in ascending order. |
 | <pre>[6-print_comb3.py](6-print_comb3.py)</pre><!--@schambig--> | Write a program that prints all possible different combinations of two digits, separated by ,, followed by a space, `01` and `10` are considered the same combination of the two digits `0` and `1`, only use no more than 3 `print` functions with string format. |
-| <pre>[7-islower.py](7-islower.py)</pre><!--@schambig--> |  |
+| <pre>[7-islower.py](7-islower.py)</pre><!--@schambig--> | Write a function that checks for lowercase character. |
 | <pre>[8-uppercase.py](8-uppercase.py)</pre><!--@s, chambig--> |  |
 | <pre>[9-print_last_digit.py](9-print_last_digit.py)</pre><!--@schambig--> |  |
 | <pre>[10-add.py](10-add.py)</pre><!--@schambig--> |  |
