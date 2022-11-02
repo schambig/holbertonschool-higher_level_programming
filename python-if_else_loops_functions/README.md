@@ -75,7 +75,7 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[12-fizzbuzz.py](12-fizzbuzz.py)</pre><!--@schambig--> | Write a function that prints the numbers from 1 to 100 separated by a space, for multiples of three print `Fizz` instead of the number and for multiples of five print `Buzz`, for numbers which are multiples of both three and five print `FizzBuzz`, each element should be followed by a space. |
 | <pre>[100-print_tebahpla.py](100-print_tebahpla.py)</pre><!--@schambig--> | Write a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (`z` in lowercase and `Y` in uppercase) , not followed by a new line. |
 | <pre>[101-remove_char_at.py](101-remove_char_at.py)</pre><!--@schambig--> | Write a function that creates a copy of the string, removing the character at the position `n` (not the Python way, the “C array index”). |
-| <pre>[102-magic_calculation.py](102-magic_calculation.py)</pre><!--@schambig--> |  |
+| <pre>[102-magic_calculation.py](102-magic_calculation.py)</pre><!--@schambig--> | Write the Python function `def magic_calculation(a, b, c):` that does exactly the same as the following Python bytecode: |
 
 ## Usage<!--@schambig-->
 
