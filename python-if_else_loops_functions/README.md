@@ -73,7 +73,7 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[10-add.py](10-add.py)</pre><!--@schambig--> | Write a function that adds two integers and returns the result. |
 | <pre>[11-pow.py](11-pow.py)</pre><!--@schambig--> | Write a function that computes `a` to the power of `b` and return the value. |
 | <pre>[12-fizzbuzz.py](12-fizzbuzz.py)</pre><!--@schambig--> | Write a function that prints the numbers from 1 to 100 separated by a space, for multiples of three print `Fizz` instead of the number and for multiples of five print `Buzz`, for numbers which are multiples of both three and five print `FizzBuzz`, each element should be followed by a space. |
-| <pre>[100-print_tebahpla.py](100-print_tebahpla.py)</pre><!--@schambig--> |  |You can only use one print function with string format
+| <pre>[100-print_tebahpla.py](100-print_tebahpla.py)</pre><!--@schambig--> | Write a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (`z` in lowercase and `Y` in uppercase) , not followed by a new line. |
 | <pre>[101-remove_char_at.py](101-remove_char_at.py)</pre><!--@schambig--> |  |
 | <pre>[102-magic_calculation.py](102-magic_calculation.py)</pre><!--@schambig--> |  |
 
