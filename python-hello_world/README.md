@@ -12,7 +12,7 @@
 
 ## Description<!--@schambig-->
 
-Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991. It is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
+Python is an interpreted, high-level, general-purpose programming language, it has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
 
 This project covers the basics of Pyhton.
 
