@@ -1,4 +1,4 @@
--- List all shows, and all genres linked to that show, from the database hbtn_0d_tvshows
+-- List all shows, and all genres linked to that show, from the hbtn_0d_tvshows db
 SELECT tv_shows.title,  tv_genres.name
 FROM  tv_shows
 LEFT JOIN tv_show_genres
