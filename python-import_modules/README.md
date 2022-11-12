@@ -43,19 +43,15 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[0-run](0-run)</pre><!--@schambig--> |  |
-| <pre>[1-run_inline](1-run_inline)</pre><!--@schambig--> |  |
-| <pre>[2-print.py](2-print.py)</pre><!--@schambig--> |  |
-| <pre>[3-print_number.py](3-print_number.py)</pre><!--@schambig--> |  |
-| <pre>[4-print_float.py](4-print_float.py)</pre><!--@schambig--> |  |
-| <pre>[5-print_string.py](5-print_string.py)</pre><!--@schambig--> |  |
-| <pre>[6-concat.py](6-concat.py)</pre><!--@schambig--> |  |
-| <pre>[7-edges.py](7-edges.py)</pre><!--@schambig--> |  |
-| <pre>[8-concat_edges.py](8-concat_edges.py)</pre><!--@schambig--> |  |
-| <pre>[9-easter_egg.py](9-easter_egg.py)</pre><!--@schambig--> |  |
-| <pre>[100-write.py](100-write.py)</pre><!--@schambig--> |  |
-| <pre>[101-compile](101-compile)</pre><!--@schambig--> |  |
-| <pre>[102-magic_calculation.py](102-magic_calculation.py)</pre><!--@schambig--> |  |
+| <pre>[0-add.py](0-add.py)</pre><!--@schambig--> |  |
+| <pre>[1-calculation.py](1-calculation.py)</pre><!--@schambig--> |  |
+| <pre>[2-args.py](2-args.py)</pre><!--@schambig--> |  |
+| <pre>[3-infinite_add.py](3-infinite_add.py)</pre><!--@schambig--> |  |
+| <pre>[4-hidden_discovery.py](4-hidden_discovery.py)</pre><!--@schambig--> |  |
+| <pre>[5-variable_load.py](5-variable_load.py)</pre><!--@schambig--> |  |
+| <pre>[100-my_calculator.py](100-my_calculator.py)</pre><!--@schambig--> |  |
+| <pre>[102-magic_calculation.py](102-magic_calculation.pyy)</pre><!--@schambig--> |  |
+
 
 ## Usage<!--@schambig-->
 
