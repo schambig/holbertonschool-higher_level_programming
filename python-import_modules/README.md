@@ -29,21 +29,10 @@ After this project I was able to [explain to anyone](https://fs.blog/feynman-lea
 
 Important concepts for this project:
 
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Modules](https://docs.python.org/3/tutorial/modules.html)
+* [Command line arguments](https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments)
+* [Pycodestyle – Style Guide for Python Code](https://pypi.org/project/pycodestyle/)
 
-More valuable resources to help you understand this project:
-
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 
 ## File structure<!--@schambig-->
 
