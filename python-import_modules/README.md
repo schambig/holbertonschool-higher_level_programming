@@ -43,7 +43,7 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[0-add.py](0-add.py)</pre><!--@schambig--> |  |
+| <pre>[0-add.py](0-add.py)</pre><!--@schambig--> | Write a program that imports the function `def add(a, b):` from the file `add_0.py` and prints the result of the addition `1 + 2 = 3`, use `print` function with string format to display integers, `a` and `b` must be defined in 2 different lines: `a = 1` and another `b = 2`. |
 | <pre>[1-calculation.py](1-calculation.py)</pre><!--@schambig--> |  |
 | <pre>[2-args.py](2-args.py)</pre><!--@schambig--> |  |
 | <pre>[3-infinite_add.py](3-infinite_add.py)</pre><!--@schambig--> |  |
