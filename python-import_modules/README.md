@@ -45,7 +45,7 @@ This table contains a brief description of the working files of the project, cli
 | --- | --- |
 | <pre>[0-add.py](0-add.py)</pre><!--@schambig--> | Write a program that imports the function `def add(a, b):` from the file `add_0.py` and prints the result of the addition `1 + 2 = 3`, use `print` function with string format to display integers, `a` and `b` must be defined in 2 different lines: `a = 1` and another `b = 2`. |
 | <pre>[1-calculation.py](1-calculation.py)</pre><!--@schambig--> | Write a program that imports functions from the file `calculator_1.py`, does some Maths, and prints the result, do not use the function `print` more than 4 times, `a` and `b` must be defined in 2 different lines: `a = 10` and another `b = 5`. |
-| <pre>[2-args.py](2-args.py)</pre><!--@schambig--> |  |
+| <pre>[2-args.py](2-args.py)</pre><!--@schambig--> | Write a program that prints the number of and the list of its arguments given from CLI, the number of elements of `argv` can be retrieved by using: `len(argv)`. |
 | <pre>[3-infinite_add.py](3-infinite_add.py)</pre><!--@schambig--> |  |
 | <pre>[4-hidden_discovery.py](4-hidden_discovery.py)</pre><!--@schambig--> |  |
 | <pre>[5-variable_load.py](5-variable_load.py)</pre><!--@schambig--> |  |
