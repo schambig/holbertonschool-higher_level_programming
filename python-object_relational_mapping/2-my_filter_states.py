@@ -12,4 +12,4 @@ if __name__ == '__main__':
                 .format(sys.argv[4]))
     [print(state) for state in cur.fetchall()]
     cur.close()
-    db.close()    
+    db.close()
