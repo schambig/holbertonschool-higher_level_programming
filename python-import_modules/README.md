@@ -47,8 +47,8 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[1-calculation.py](1-calculation.py)</pre><!--@schambig--> | Write a program that imports functions from the file `calculator_1.py`, does some Maths, and prints the result, do not use the function `print` more than 4 times, `a` and `b` must be defined in 2 different lines: `a = 10` and another `b = 5`. |
 | <pre>[2-args.py](2-args.py)</pre><!--@schambig--> | Write a program that prints the number of and the list of its arguments given from CLI, the number of elements of `argv` can be retrieved by using: `len(argv)`. |
 | <pre>[3-infinite_add.py](3-infinite_add.py)</pre><!--@schambig--> | Write a program that prints the result of the addition of all arguments from CLI, you can cast arguments into integers by using `int()`. |
-| <pre>[4-hidden_discovery.py](4-hidden_discovery.py)</pre><!--@schambig--> |  |
-| <pre>[5-variable_load.py](5-variable_load.py)</pre><!--@schambig--> |  |
+| <pre>[4-hidden_discovery.py](4-hidden_discovery.py)</pre><!--@schambig--> | Write a program that prints all the names defined by the compiled module [hidden_4.pyc](https://github.com/holbertonschool/0x02.py/raw/master/hidden_4.pyc), print one name per line, in alpha order, print only names that do **not** start with `__`. |
+| <pre>[5-variable_load.py](5-variable_load.py)</pre><!--@schambig--> | Write a program that imports the variable `a` from the file `variable_load_5.py` and prints its value, you are not allowed to use `*` for importing or `__import__`. |
 | <pre>[100-my_calculator.py](100-my_calculator.py)</pre><!--@schambig--> |  |
 | <pre>[102-magic_calculation.py](102-magic_calculation.pyy)</pre><!--@schambig--> |  |
 
