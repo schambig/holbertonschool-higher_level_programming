@@ -49,7 +49,7 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[3-infinite_add.py](3-infinite_add.py)</pre><!--@schambig--> | Write a program that prints the result of the addition of all arguments from CLI, you can cast arguments into integers by using `int()`. |
 | <pre>[4-hidden_discovery.py](4-hidden_discovery.py)</pre><!--@schambig--> | Write a program that prints all the names defined by the compiled module [hidden_4.pyc](https://github.com/holbertonschool/0x02.py/raw/master/hidden_4.pyc), print one name per line, in alpha order, print only names that do **not** start with `__`. |
 | <pre>[5-variable_load.py](5-variable_load.py)</pre><!--@schambig--> | Write a program that imports the variable `a` from the file `variable_load_5.py` and prints its value, you are not allowed to use `*` for importing or `__import__`. |
-| <pre>[100-my_calculator.py](100-my_calculator.py)</pre><!--@schambig--> |  |
+| <pre>[100-my_calculator.py](100-my_calculator.py)</pre><!--@schambig--> | Write a program that imports all functions from the file `calculator_1.py` and handles basic operations. |
 | <pre>[102-magic_calculation.py](102-magic_calculation.pyy)</pre><!--@schambig--> |  |
 
 
