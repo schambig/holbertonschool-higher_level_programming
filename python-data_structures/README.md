@@ -35,7 +35,7 @@ After this project I was able to [explain to anyone](https://fs.blog/feynman-lea
 Important concepts for this project:
 
 * [3.1.3. Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
-* [Data structures](https://docs.python.org/3/tutorial/datastructures.html)(until 5.3. Tuples and Sequences included)
+* [Data structures](https://docs.python.org/3/tutorial/datastructures.html) (until 5.3. Tuples and Sequences included)
 * [Learn to Program 6 : Lists](https://www.youtube.com/watch?v=A1HUzrvS-Pw)
 
 
@@ -48,17 +48,19 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[0-print_list_integer.py](0-print_list_integer.py)</pre><!--@schambig--> |  |
+| <pre>[1-element_at.py](1-element_at.py)</pre><!--@schambig--> |  |
+| <pre>[2-replace_in_list.py](2-replace_in_list.py)</pre><!--@schambig--> |  |
+| <pre>[3-print_reversed_list_integer.py](3-print_reversed_list_integer.py)</pre><!--@schambig--> |  |
+| <pre>[4-new_in_list.py](4-new_in_list.py)</pre><!--@schambig--> |  |
+| <pre>[5-no_c.py](5-no_c.py)</pre><!--@schambig--> |  |
+| <pre>[6-print_matrix_integer.py](6-print_matrix_integer.py)</pre><!--@schambig--> |  |
+| <pre>[7-add_tuple.py](7-add_tuple.py)</pre><!--@schambig--> |  |
+| <pre>[8-multiple_returns.py](8-multiple_returns.py)</pre><!--@schambig--> |  |
+| <pre>[9-max_integer.py](9-max_integer.py)</pre><!--@schambig--> |  |
+| <pre>[10-divisible_by_2.py](10-divisible_by_2.py)</pre><!--@schambig--> |  |
+| <pre>[11-delete_at.py](11-delete_at.py)</pre><!--@schambig--> |  |
+| <pre>[12-switch.py](12-switch.py)</pre><!--@schambig--> |  |
 
 ## Usage<!--@schambig-->
 
@@ -71,7 +73,7 @@ $ git clone https://github.com/schambig/holbertonschool-higher_level_programming
 Then, go to the project directory:
 
 ```
-$ cd 
+$ cd python-data_structures
 ```
 
 Finally, you can execute the scripts:
