@@ -55,12 +55,12 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[4-new_in_list.py](4-new_in_list.py)</pre><!--@schambig--> | Write a function that replaces an element in a list at a specific position without modifying the original list (like in C). |
 | <pre>[5-no_c.py](5-no_c.py)</pre><!--@schambig--> | Write a function that removes all characters `c` and `C` from a string. |
 | <pre>[6-print_matrix_integer.py](6-print_matrix_integer.py)</pre><!--@schambig--> | Write a function that prints a matrix of integers. |
-| <pre>[7-add_tuple.py](7-add_tuple.py)</pre><!--@schambig--> |  |
-| <pre>[8-multiple_returns.py](8-multiple_returns.py)</pre><!--@schambig--> |  |
-| <pre>[9-max_integer.py](9-max_integer.py)</pre><!--@schambig--> |  |
-| <pre>[10-divisible_by_2.py](10-divisible_by_2.py)</pre><!--@schambig--> |  |
-| <pre>[11-delete_at.py](11-delete_at.py)</pre><!--@schambig--> |  |
-| <pre>[12-switch.py](12-switch.py)</pre><!--@schambig--> |  |
+| <pre>[7-add_tuple.py](7-add_tuple.py)</pre><!--@schambig--> | Write a function that adds 2 tuples. |
+| <pre>[8-multiple_returns.py](8-multiple_returns.py)</pre><!--@schambig--> | Write a function that returns a tuple with the length of a string and its first character. |
+| <pre>[9-max_integer.py](9-max_integer.py)</pre><!--@schambig--> | Write a function that finds the biggest integer of a list. |
+| <pre>[10-divisible_by_2.py](10-divisible_by_2.py)</pre><!--@schambig--> | Write a function that finds all multiples of 2 in a list. |
+| <pre>[11-delete_at.py](11-delete_at.py)</pre><!--@schambig--> | Write a function that deletes the item at a specific position in a list. |
+| <pre>[12-switch.py](12-switch.py)</pre><!--@schambig--> | Complete the source code in order to switch value of `a` and `b`. |
 
 ## Usage<!--@schambig-->
 
