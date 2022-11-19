@@ -48,13 +48,13 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[0-print_list_integer.py](0-print_list_integer.py)</pre><!--@schambig--> |  |
-| <pre>[1-element_at.py](1-element_at.py)</pre><!--@schambig--> |  |
-| <pre>[2-replace_in_list.py](2-replace_in_list.py)</pre><!--@schambig--> |  |
-| <pre>[3-print_reversed_list_integer.py](3-print_reversed_list_integer.py)</pre><!--@schambig--> |  |
-| <pre>[4-new_in_list.py](4-new_in_list.py)</pre><!--@schambig--> |  |
-| <pre>[5-no_c.py](5-no_c.py)</pre><!--@schambig--> |  |
-| <pre>[6-print_matrix_integer.py](6-print_matrix_integer.py)</pre><!--@schambig--> |  |
+| <pre>[0-print_list_integer.py](0-print_list_integer.py)</pre><!--@schambig--> | Write a function that prints all integers of a list. |
+| <pre>[1-element_at.py](1-element_at.py)</pre><!--@schambig--> | Write a function that retrieves an element from a list like in C. |
+| <pre>[2-replace_in_list.py](2-replace_in_list.py)</pre><!--@schambig--> | Write a function that replaces an element of a list at a specific position (like in C). |
+| <pre>[3-print_reversed_list_integer.py](3-print_reversed_list_integer.py)</pre><!--@schambig--> | Write a function that prints all integers of a list, in reverse order. |
+| <pre>[4-new_in_list.py](4-new_in_list.py)</pre><!--@schambig--> | Write a function that replaces an element in a list at a specific position without modifying the original list (like in C). |
+| <pre>[5-no_c.py](5-no_c.py)</pre><!--@schambig--> | Write a function that removes all characters `c` and `C` from a string. |
+| <pre>[6-print_matrix_integer.py](6-print_matrix_integer.py)</pre><!--@schambig--> | Write a function that prints a matrix of integers. |
 | <pre>[7-add_tuple.py](7-add_tuple.py)</pre><!--@schambig--> |  |
 | <pre>[8-multiple_returns.py](8-multiple_returns.py)</pre><!--@schambig--> |  |
 | <pre>[9-max_integer.py](9-max_integer.py)</pre><!--@schambig--> |  |
