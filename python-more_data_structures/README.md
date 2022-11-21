@@ -47,17 +47,20 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[0-square_matrix_simple.py](0-square_matrix_simple.py)</pre><!--@schambig--> |  |
+| <pre>[1-search_replace.py](1-search_replace.py)</pre><!--@schambig--> |  |
+| <pre>[2-uniq_add.py](2-uniq_add.py)</pre><!--@schambig--> |  |
+| <pre>[3-common_elements.py](3-common_elements.py)</pre><!--@schambig--> |  |
+| <pre>[4-only_diff_elements.py](4-only_diff_elements.py)</pre><!--@schambig--> |  |
+| <pre>[5-number_keys.py](5-number_keys.py)</pre><!--@schambig--> |  |
+| <pre>[6-print_sorted_dictionary.py](6-print_sorted_dictionary.py)</pre><!--@schambig--> |  |
+| <pre>[7-update_dictionary.py](7-update_dictionary.py)</pre><!--@schambig--> |  |
+| <pre>[8-simple_delete.py](8-simple_delete.py)</pre><!--@schambig--> |  |
+| <pre>[9-multiply_by_2.py](9-multiply_by_2.py)</pre><!--@schambig--> |  |
+| <pre>[10-best_score.py](10-best_score.py)</pre><!--@schambig--> |  |
+| <pre>[11-multiply_list_map.py](11-multiply_list_map.py)</pre><!--@schambig--> |  |
+| <pre>[12-roman_to_int.py](12-roman_to_int.py)</pre><!--@schambig--> |  |
+
 
 ## Usage<!--@schambig-->
 
