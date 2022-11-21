@@ -28,23 +28,11 @@ After this project I was able to [explain to anyone](https://fs.blog/feynman-lea
 
 ## Resources<!--@schambig-->
 
-Important concepts for this project:
+Important concepts to help you understand this project:
 
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
+* [Learn to Program 11 Static & Exception Handling ](https://www.youtube.com/watch?v=7vbgD-3s-w4) (starting at minute 7)
 
-More valuable resources to help you understand this project:
-
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 
 ## File structure<!--@schambig-->
 
