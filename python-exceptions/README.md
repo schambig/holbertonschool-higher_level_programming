@@ -43,13 +43,13 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[0-safe_print_list.py](0-safe_print_list.py)</pre><!--@schambig--> |  |
-| <pre>[1-safe_print_integer.py](1-safe_print_integer.py)</pre><!--@schambig--> |  |
-| <pre>[2-safe_print_list_integers.py](2-safe_print_list_integers.py)</pre><!--@schambig--> |  |
-| <pre>[3-safe_print_division.py](3-safe_print_division.py)</pre><!--@schambig--> |  |
-| <pre>[4-list_division.py](4-list_division.py)</pre><!--@schambig--> |  |
-| <pre>[5-raise_exception.py](5-raise_exception.py)</pre><!--@schambig--> |  |
-| <pre>[6-raise_exception_msg.py](6-raise_exception_msg.py)</pre><!--@schambig--> |  |
+| <pre>[0-safe_print_list.py](0-safe_print_list.py)</pre><!--@schambig--> | Write a function that prints`x` elements of a list. |
+| <pre>[1-safe_print_integer.py](1-safe_print_integer.py)</pre><!--@schambig--> | Write a function that prints an integer with `"{:d}".format()`. |
+| <pre>[2-safe_print_list_integers.py](2-safe_print_list_integers.py)</pre><!--@schambig--> | Write a function that prints the first `x` elements of a list and only integers. |
+| <pre>[3-safe_print_division.py](3-safe_print_division.py)</pre><!--@schambig--> | Write a function that divides 2 integers and prints the result. |
+| <pre>[4-list_division.py](4-list_division.py)</pre><!--@schambig--> | Write a function that divides element by element 2 lists. |
+| <pre>[5-raise_exception.py](5-raise_exception.py)</pre><!--@schambig--> | Write a function that raises a type exception. |
+| <pre>[6-raise_exception_msg.py](6-raise_exception_msg.py)</pre><!--@schambig--> | Write a function that raises a name exception with a message. |
 
 
 ## Usage<!--@schambig-->
@@ -63,7 +63,7 @@ $ git clone https://github.com/schambig/holbertonschool-higher_level_programming
 Then, go to the project directory:
 
 ```
-$ cd 
+$ cd python-exceptions
 ```
 
 Finally, you can execute the scripts:
