@@ -47,19 +47,19 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[0-square_matrix_simple.py](0-square_matrix_simple.py)</pre><!--@schambig--> |  |
-| <pre>[1-search_replace.py](1-search_replace.py)</pre><!--@schambig--> |  |
-| <pre>[2-uniq_add.py](2-uniq_add.py)</pre><!--@schambig--> |  |
-| <pre>[3-common_elements.py](3-common_elements.py)</pre><!--@schambig--> |  |
-| <pre>[4-only_diff_elements.py](4-only_diff_elements.py)</pre><!--@schambig--> |  |
-| <pre>[5-number_keys.py](5-number_keys.py)</pre><!--@schambig--> |  |
-| <pre>[6-print_sorted_dictionary.py](6-print_sorted_dictionary.py)</pre><!--@schambig--> |  |
-| <pre>[7-update_dictionary.py](7-update_dictionary.py)</pre><!--@schambig--> |  |
-| <pre>[8-simple_delete.py](8-simple_delete.py)</pre><!--@schambig--> |  |
-| <pre>[9-multiply_by_2.py](9-multiply_by_2.py)</pre><!--@schambig--> |  |
-| <pre>[10-best_score.py](10-best_score.py)</pre><!--@schambig--> |  |
-| <pre>[11-multiply_list_map.py](11-multiply_list_map.py)</pre><!--@schambig--> |  |
-| <pre>[12-roman_to_int.py](12-roman_to_int.py)</pre><!--@schambig--> |  |
+| <pre>[0-square_matrix_simple.py](0-square_matrix_simple.py)</pre><!--@schambig--> | Write a function that computes the square value of all integers of a matrix. |
+| <pre>[1-search_replace.py](1-search_replace.py)</pre><!--@schambig--> | Write a function that replaces all occurrences of an element by another in a new list. |
+| <pre>[2-uniq_add.py](2-uniq_add.py)</pre><!--@schambig--> | Write a function that adds all unique integers in a list (only once for each integer). |
+| <pre>[3-common_elements.py](3-common_elements.py)</pre><!--@schambig--> | Write a function that returns a set of common elements in two sets. |
+| <pre>[4-only_diff_elements.py](4-only_diff_elements.py)</pre><!--@schambig--> | Write a function that returns a set of all elements present in only one set. |
+| <pre>[5-number_keys.py](5-number_keys.py)</pre><!--@schambig--> | Write a function that returns the number of keys in a dictionary. |
+| <pre>[6-print_sorted_dictionary.py](6-print_sorted_dictionary.py)</pre><!--@schambig--> | Write a function that prints a dictionary by ordered keys. |
+| <pre>[7-update_dictionary.py](7-update_dictionary.py)</pre><!--@schambig--> | Write a function that replaces or adds key/value in a dictionary. |
+| <pre>[8-simple_delete.py](8-simple_delete.py)</pre><!--@schambig--> | Write a function that deletes a key in a dictionary. |
+| <pre>[9-multiply_by_2.py](9-multiply_by_2.py)</pre><!--@schambig--> | Write a function that returns a new dictionary with all values multiplied by 2 |
+| <pre>[10-best_score.py](10-best_score.py)</pre><!--@schambig--> | Write a function that returns a key with the biggest integer value. |
+| <pre>[11-multiply_list_map.py](11-multiply_list_map.py)</pre><!--@schambig--> | Write a function that returns a list with all values multiplied by a number without using any loops. |
+| <pre>[12-roman_to_int.py](12-roman_to_int.py)</pre><!--@schambig--> | Create a function def `roman_to_int(roman_string):` that converts a [Roman numeral](https://en.wikipedia.org/wiki/Roman_numerals) to an integer. |
 
 
 ## Usage<!--@schambig-->
@@ -73,7 +73,7 @@ $ git clone https://github.com/schambig/holbertonschool-higher_level_programming
 Then, go to the project directory:
 
 ```
-$ cd 
+$ cd python-more_data_structures
 ```
 
 Finally, you can execute the scripts:
