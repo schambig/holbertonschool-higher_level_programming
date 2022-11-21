@@ -14,12 +14,17 @@
 
 Python is an interpreted, high-level, general-purpose programming language, it has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
 
-This project ... .
+This project covers `Errors` and `Exceptions` and how to handle them.
 
 After this project I was able to [explain to anyone](https://fs.blog/feynman-learning-technique/):
 
-* This
-* Also this
+* What’s the difference between errors and exceptions
+* What are exceptions and how to use them
+* When do we need to use exceptions
+* How to correctly handle an exception
+* What’s the purpose of catching exceptions
+* How to raise a builtin exception
+* When do we need to implement a clean-up action after an exception
 
 ## Resources<!--@schambig-->
 
