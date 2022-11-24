@@ -44,12 +44,12 @@ This table contains a brief description of the working files of the project, cli
 | Filename | Description/Task |
 | --- | --- |
 | <pre>[tests](tests)</pre><!--@schambig--> |  |
-| <pre>[0-add_integer.py](0-add_integer.py)</pre><!--@schambig--> |  |
-| <pre>[2-matrix_divided.py](2-matrix_divided.py)</pre><!--@schambig--> |  |
-| <pre>[3-say_my_name.py](3-say_my_name.py)</pre><!--@schambig--> |  |
-| <pre>[4-print_square.py](4-print_square.py)</pre><!--@schambig--> |  |
-| <pre>[5-text_indentation.py](5-text_indentation.py)</pre><!--@schambig--> |  |
-| <pre>[6-max_integer.py](6-max_integer.py)</pre><!--@schambig--> |  |
+| <pre>[0-add_integer.py](0-add_integer.py)</pre><!--@schambig--> | Write a function that adds 2 integers. |
+| <pre>[2-matrix_divided.py](2-matrix_divided.py)</pre><!--@schambig--> | Write a function that divides all elements of a matrix. |
+| <pre>[3-say_my_name.py](3-say_my_name.py)</pre><!--@schambig--> | Write a function that prints `My name is <first name> <last name>` |
+| <pre>[4-print_square.py](4-print_square.py)</pre><!--@schambig--> | Write a function that prints a square with the character `#`. |
+| <pre>[5-text_indentation.py](5-text_indentation.py)</pre><!--@schambig--> | Write a function that prints a text with 2 new lines after each of these characters: `.`, `?` and `:`. |
+| <pre>[6-max_integer.py](6-max_integer.py)</pre><!--@schambig--> | Since the beginning you have been creating “Interactive tests”. For this exercise, you will add Unittests. In this task, you will write unittests for the function `def max_integer(list=[]):`. |
 
 
 ## Usage<!--@schambig-->
