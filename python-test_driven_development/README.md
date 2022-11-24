@@ -14,7 +14,7 @@
 
 Python is an interpreted, high-level, general-purpose programming language, it has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
 
-This project is about testing through documentation, and veifying that they produce the expected result.
+This project is about testing through documentation, and verifying that they produce the expected result.
 
 After this project I was able to [explain to anyone](https://fs.blog/feynman-learning-technique/):
 
