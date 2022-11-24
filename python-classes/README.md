@@ -59,17 +59,14 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[0-square.py](0-square.py)</pre><!--@schambig--> |  |
+| <pre>[1-square.py](1-square.py)</pre><!--@schambig--> |  |
+| <pre>[2-square.py](2-square.py)</pre><!--@schambig--> |  |
+| <pre>[3-square.py](3-square.py)</pre><!--@schambig--> |  |
+| <pre>[4-square.py](4-square.py)</pre><!--@schambig--> |  |
+| <pre>[5-square.py](5-square.py)</pre><!--@schambig--> |  |
+| <pre>[6-square.py](6-square.py)</pre><!--@schambig--> |  |
+
 
 ## Usage<!--@schambig-->
 
