@@ -18,28 +18,21 @@ This project is about testing through documentation, and veifying that they prod
 
 After this project I was able to [explain to anyone](https://fs.blog/feynman-learning-technique/):
 
-* This
-* Also this
+* What’s an interactive test
+* Why tests are important
+* How to write Docstrings to create tests
+* How to write documentation for each module and function
+* What are the basic option flags to create tests
+* How to find edge cases
 
 ## Resources<!--@schambig-->
 
-Important concepts for this project:
+Important concepts to help you understand this project:
 
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [doctest — Test interactive Python examples](https://docs.python.org/3.4/library/doctest.html) (until “26.2.3.7. Warnings” included)
+* [doctest – Testing through documentation](https://pymotw.com/3/doctest/)
+* [Unit Tests in Python](https://www.youtube.com/watch?v=1Lfv5tUGsn8) (Socratica video)
 
-More valuable resources to help you understand this project:
-
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 
 ## File structure<!--@schambig-->
 
