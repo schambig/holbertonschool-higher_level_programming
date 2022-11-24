@@ -79,7 +79,7 @@ $ git clone https://github.com/schambig/holbertonschool-higher_level_programming
 Then, go to the project directory:
 
 ```
-$ cd 
+$ cd python-classes
 ```
 
 Finally, you can execute the scripts:
