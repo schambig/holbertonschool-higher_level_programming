@@ -43,17 +43,14 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[tests](tests)</pre><!--@schambig--> |  |
+| <pre>[0-add_integer.py](0-add_integer.py)</pre><!--@schambig--> |  |
+| <pre>[2-matrix_divided.py](2-matrix_divided.py)</pre><!--@schambig--> |  |
+| <pre>[3-say_my_name.py](3-say_my_name.py)</pre><!--@schambig--> |  |
+| <pre>[4-print_square.py](4-print_square.py)</pre><!--@schambig--> |  |
+| <pre>[5-text_indentation.py](5-text_indentation.py)</pre><!--@schambig--> |  |
+| <pre>[6-max_integer.py](6-max_integer.py)</pre><!--@schambig--> |  |
+
 
 ## Usage<!--@schambig-->
 
@@ -66,7 +63,7 @@ $ git clone https://github.com/schambig/holbertonschool-higher_level_programming
 Then, go to the project directory:
 
 ```
-$ cd 
+$ cd python-test_driven_development
 ```
 
 Finally, you can execute the scripts:
