@@ -88,6 +88,18 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
+| <pre>[0-answer.txt](0-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[1-answer.txt](1-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[2-answer.txt](2-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[3-answer.txt](3-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[4-answer.txt](4-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[5-answer.txt](5-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[6-answer.txt](6-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[7-answer.txt](7-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[8-answer.txt](8-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[9-answer.txt](9-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[10-answer.txt](10-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[11-answer.txt](11-answer.txt)</pre><!--@schambig--> |  |
 | <pre>[]()</pre><!--@schambig--> |  |
 | <pre>[]()</pre><!--@schambig--> |  |
 | <pre>[]()</pre><!--@schambig--> |  |
@@ -99,6 +111,13 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[]()</pre><!--@schambig--> |  |
 | <pre>[]()</pre><!--@schambig--> |  |
 | <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[]()</pre><!--@schambig--> |  |
+
 
 ## Usage<!--@schambig-->
 
