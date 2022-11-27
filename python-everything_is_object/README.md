@@ -6,7 +6,7 @@
 
 # Python Everything is object<!--@schambig-->
 
-[Background Context](#background-context) • [Description](#description) • [Resources](#resources) • <!--@schambig-->[File Structure](#file-structure) • [Usage](#usage)
+[Background Context](#background-context) • [Description](#description) • [Medium Blogpost](#medium-blogpost) • [Resources](#resources) • <!--@schambig-->[File Structure](#file-structure) • [Usage](#usage)
 
 ---
 
@@ -34,19 +34,27 @@ OK. But what about this?
 >>> 
 ```
 
-![Batconfused<!--@schambig-->]()
-
-
 ## Description<!--@schambig-->
 
-Python is an interpreted, high-level, general-purpose programming language, it has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
+This project is a little bit different than the usual projects. The first part is only questions about Python’s specificity like “What would be the result of…”. You should read all documentation first (as usual :)), then take the time to think and brainstorm about what you think and why. Try to do this without coding anything for a few hours.
 
-This project ... .
+Trying examples in the Python interpreter will give you most of the answers without having to think about it. Don’t go this route. First read, then think, then brainstorm together. Only then you can test in the interpreter.
+
+It’s important that you truly understand the reasons behind the answers of all those tasks so that you can apply the same logic to other variables and other variable types. 
+
+All answers will be only one line in a file. No space before or after the answer.
 
 After this project I was able to [explain to anyone](https://fs.blog/feynman-learning-technique/):
 
 * This
 * Also this
+
+
+## Medium Blogpost<!--@schambig-->
+
+After finishing this project I've written a blogpost about everything I learned and I would like you to read it. [Click here](https://medium.com/@schambig/python3-mutable-and-immutable-objects-c7c70bfb067a)
+
+![Medium Blogpost](https://i.imgur.com/ZGpeodW.jpg)
 
 ## Resources<!--@schambig-->
 
