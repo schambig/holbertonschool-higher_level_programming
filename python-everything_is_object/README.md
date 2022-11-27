@@ -108,15 +108,15 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[17-answer.txt](17-answer.txt)</pre><!--@schambig--> |  |
 | <pre>[18-answer.txt](18-answer.txt)</pre><!--@schambig--> |  |
 | <pre>[19-copy_list.py](19-copy_list.py)</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[20-answer.txt](20-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[21-answer.txt](21-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[22-answer.txt](22-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[23-answer.txt](23-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[24-answer.txt](24-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[25-answer.txt](25-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[26-answer.txt](26-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[27-answer.txt](27-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[28-answer.txt](28-answer.txt)</pre><!--@schambig--> |  |
 
 
 ## Usage<!--@schambig-->
