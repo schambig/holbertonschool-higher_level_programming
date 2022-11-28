@@ -110,9 +110,9 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[19-copy_list.py](19-copy_list.py)</pre><!--@schambig--> | Write a function `def copy_list(l):` that returns a copy of a list.<br>• The input list can contain any type of objects<br>• Your file should be maximum 3-line long (no documentation needed)<br>• You are not allowed to import any module |
 | <pre>[20-answer.txt](20-answer.txt)</pre><!--@schambig--> | Is `a` a tuple? Answer with `Yes` or `No`. <pre>a = ()</pre> |
 | <pre>[21-answer.txt](21-answer.txt)</pre><!--@schambig--> | Is `a` a tuple? Answer with `Yes` or `No`. <pre>a = (1, 2)</pre> |
-| <pre>[22-answer.txt](22-answer.txt)</pre><!--@schambig--> |  |
-| <pre>[23-answer.txt](23-answer.txt)</pre><!--@schambig--> |  |
-| <pre>[24-answer.txt](24-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[22-answer.txt](22-answer.txt)</pre><!--@schambig--> | Is `a` a tuple? Answer with `Yes` or `No`. <pre>a = (1)</pre> |
+| <pre>[23-answer.txt](23-answer.txt)</pre><!--@schambig--> | Is `a` a tuple? Answer with `Yes` or `No`. <pre>a = (1, )</pre> |
+| <pre>[24-answer.txt](24-answer.txt)</pre><!--@schambig--> | What does this script print? <pre>a = (1)<br>b = (1)<br>a is b</pre> |
 | <pre>[25-answer.txt](25-answer.txt)</pre><!--@schambig--> |  |
 | <pre>[26-answer.txt](26-answer.txt)</pre><!--@schambig--> |  |
 | <pre>[27-answer.txt](27-answer.txt)</pre><!--@schambig--> |  |
