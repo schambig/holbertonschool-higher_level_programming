@@ -113,10 +113,10 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[22-answer.txt](22-answer.txt)</pre><!--@schambig--> | Is `a` a tuple? Answer with `Yes` or `No`. <pre>a = (1)</pre> |
 | <pre>[23-answer.txt](23-answer.txt)</pre><!--@schambig--> | Is `a` a tuple? Answer with `Yes` or `No`. <pre>a = (1, )</pre> |
 | <pre>[24-answer.txt](24-answer.txt)</pre><!--@schambig--> | What does this script print? <pre>a = (1)<br>b = (1)<br>a is b</pre> |
-| <pre>[25-answer.txt](25-answer.txt)</pre><!--@schambig--> |  |
-| <pre>[26-answer.txt](26-answer.txt)</pre><!--@schambig--> |  |
-| <pre>[27-answer.txt](27-answer.txt)</pre><!--@schambig--> |  |
-| <pre>[28-answer.txt](28-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[25-answer.txt](25-answer.txt)</pre><!--@schambig--> | What does this script print? <pre>a = (1, 2)<br>b = (1, 2)<br>a is b</pre> |
+| <pre>[26-answer.txt](26-answer.txt)</pre><!--@schambig--> | What does this script print? <pre>a = ()<br>b = ()<br>a is b</pre> |
+| <pre>[27-answer.txt](27-answer.txt)</pre><!--@schambig--> | Will the last line of this script print `139926795932424`? Answer with `Yes` or `No`. <pre>>>> id(a)<br>139926795932424<br>>>> a<br>[1, 2, 3, 4]<br>>>> a = a + [5]<br>>> a += [4]>>>>>>> id(a)a)</pre> |
+| <pre>[28-answer.txt](28-answer.txt)</pre><!--@schambig--> | Will the last line of this script print `139926795932424`? Answer with `Yes` or `No`. <pre>>>> a<br>[1, 2, 3]<br>>>> id (a)<br>139926795932424<br>>>> a += [4]<br>>>> id(a)</pre |
 <!-- <pre><br><br></pre> • -->
 
 ## Usage<!--@schambig-->
