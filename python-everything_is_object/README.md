@@ -92,9 +92,9 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[1-answer.txt](1-answer.txt)</pre><!--@schambig--> | How do you get the variable identifier (which is the memory address in the CPython implementation)?<br>Write the name of the function in the file, without `()`. |
 | <pre>[2-answer.txt](2-answer.txt)</pre><!--@schambig--> | In the following code, do `a` and `b` point to the same object? Answer with `Yes` or `No`. <pre>>>> a = 89<br>>>> b = 100</pre> |
 | <pre>[3-answer.txt](3-answer.txt)</pre><!--@schambig--> | In the following code, do `a` and `b` point to the same object? Answer with `Yes` or `No`. <pre>>>> a = 89<br>>>> b = 89</pre> |
-| <pre>[4-answer.txt](4-answer.txt)</pre><!--@schambig--> |  |
-| <pre>[5-answer.txt](5-answer.txt)</pre><!--@schambig--> |  |
-| <pre>[6-answer.txt](6-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[4-answer.txt](4-answer.txt)</pre><!--@schambig--> | In the following code, do `a` and `b` point to the same object? Answer with `Yes` or `No`. <pre>>>> a = 89<br>>>> b = a</pre> |
+| <pre>[5-answer.txt](5-answer.txt)</pre><!--@schambig--> | In the following code, do `a` and `b` point to the same object? Answer with `Yes` or `No`. <pre>>>> a = 89<br>>>> b = a + 1</pre> |
+| <pre>[6-answer.txt](6-answer.txt)</pre><!--@schambig--> | What do these 3 lines print? <pre>>>> s1 = "Best School"<br>>>> s2 = s1<br>>>> print(s1 == s2)</pre> |
 | <pre>[7-answer.txt](7-answer.txt)</pre><!--@schambig--> |  |
 | <pre>[8-answer.txt](8-answer.txt)</pre><!--@schambig--> |  |
 | <pre>[9-answer.txt](9-answer.txt)</pre><!--@schambig--> |  |
