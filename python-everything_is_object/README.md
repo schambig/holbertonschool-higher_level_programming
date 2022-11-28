@@ -95,9 +95,9 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[4-answer.txt](4-answer.txt)</pre><!--@schambig--> | In the following code, do `a` and `b` point to the same object? Answer with `Yes` or `No`. <pre>>>> a = 89<br>>>> b = a</pre> |
 | <pre>[5-answer.txt](5-answer.txt)</pre><!--@schambig--> | In the following code, do `a` and `b` point to the same object? Answer with `Yes` or `No`. <pre>>>> a = 89<br>>>> b = a + 1</pre> |
 | <pre>[6-answer.txt](6-answer.txt)</pre><!--@schambig--> | What do these 3 lines print? <pre>>>> s1 = "Best School"<br>>>> s2 = s1<br>>>> print(s1 == s2)</pre> |
-| <pre>[7-answer.txt](7-answer.txt)</pre><!--@schambig--> |  |
-| <pre>[8-answer.txt](8-answer.txt)</pre><!--@schambig--> |  |
-| <pre>[9-answer.txt](9-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[7-answer.txt](7-answer.txt)</pre><!--@schambig--> | What do these 3 lines print? <pre>>>> s1 = "Best"<br>>>> s2 = s1<br>>>> print(s1 is s2)</pre> |
+| <pre>[8-answer.txt](8-answer.txt)</pre><!--@schambig--> | What do these 3 lines print? <pre>>>> s1 = "Best School"<br>>>> s2 = "Best School"<br>>>> print(s1 == s2)</pre> |
+| <pre>[9-answer.txt](9-answer.txt)</pre><!--@schambig--> | What do these 3 lines print? <pre>>>> s1 = "Best School"<br>>>> s2 = "Best School"<br>>>> print(s1 is s2)</pre> |
 | <pre>[10-answer.txt](10-answer.txt)</pre><!--@schambig--> |  |
 | <pre>[11-answer.txt](11-answer.txt)</pre><!--@schambig--> |  |
 | <pre>[12-answer.txt](12-answer.txt)</pre><!--@schambig--> |  |
