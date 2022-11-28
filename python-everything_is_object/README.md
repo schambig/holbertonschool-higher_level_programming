@@ -90,7 +90,7 @@ This table contains a brief description of the working files of the project, cli
 | --- | --- |
 | <pre>[0-answer.txt](0-answer.txt)</pre><!--@schambig--> | What function would you use to print the type of an object? Write the name of the function in the file, without `()`. |
 | <pre>[1-answer.txt](1-answer.txt)</pre><!--@schambig--> | How do you get the variable identifier (which is the memory address in the CPython implementation)? Write the name of the function in the file, without `()`. |
-| <pre>[2-answer.txt](2-answer.txt)</pre><!--@schambig--> | In the following code, do `a` and `b` point to the same object? Answer with `Yes` or `No`. ``` hola ``` |
+| <pre>[2-answer.txt](2-answer.txt)</pre><!--@schambig--> | In the following code, do `a` and `b` point to the same object? Answer with `Yes` or `No`. <pre>>>> a = 89<br>>>> b = 100</pre> |
 | <pre>[3-answer.txt](3-answer.txt)</pre><!--@schambig--> |  |
 | <pre>[4-answer.txt](4-answer.txt)</pre><!--@schambig--> |  |
 | <pre>[5-answer.txt](5-answer.txt)</pre><!--@schambig--> |  |
