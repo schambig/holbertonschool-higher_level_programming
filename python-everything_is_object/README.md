@@ -103,10 +103,10 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[12-answer.txt](12-answer.txt)</pre><!--@schambig--> | What do these 3 lines print? <pre>>>> l1 = [1, 2, 3]<br>>>> l2 = l1<br>>>> print(l1 == l2)</pre> |
 | <pre>[13-answer.txt](13-answer.txt)</pre><!--@schambig--> | What do these 3 lines print? <pre>>>> l1 = [1, 2, 3]<br>>>> l2 = l1<br>>>> print(l1 is l2)</pre> |
 | <pre>[14-answer.txt](14-answer.txt)</pre><!--@schambig--> | What does this script print? <pre>l1 = [1, 2, 3]<br>l2 = l1<br>l1.append(4)<br>print(l2)</pre> |
-| <pre>[15-answer.txt](15-answer.txt)</pre><!--@schambig--> |  |
-| <pre>[16-answer.txt](16-answer.txt)</pre><!--@schambig--> |  |
-| <pre>[17-answer.txt](17-answer.txt)</pre><!--@schambig--> |  |
-| <pre>[18-answer.txt](18-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[15-answer.txt](15-answer.txt)</pre><!--@schambig--> | What does this script print? <pre>l1 = [1, 2, 3]<br>l2 = l1<br>l1 = l1 + [4]<br>print(l2)</pre> |
+| <pre>[16-answer.txt](16-answer.txt)</pre><!--@schambig--> | What does this script print? <pre>def increment(n):<br>    n += 1<br><br>a = 1<br>increment(a)<br>print(a)</pre> |
+| <pre>[17-answer.txt](17-answer.txt)</pre><!--@schambig--> | What does this script print? <pre>def increment(n):<br>    n.append(4)<br><br>l = [1, 2, 3]<br>increment(l)<br>print(l)</pre> |
+| <pre>[18-answer.txt](18-answer.txt)</pre><!--@schambig--> | What does this script print? <pre>def assign_value(n, v):<br>    n = v<br><br>l = [1, 2, 3]<br>l2 = [4, 5, 6]<br>assign_value(l1, l2)<br>print(l1)</pre> |
 | <pre>[19-copy_list.py](19-copy_list.py)</pre><!--@schambig--> |  |
 | <pre>[20-answer.txt](20-answer.txt)</pre><!--@schambig--> |  |
 | <pre>[21-answer.txt](21-answer.txt)</pre><!--@schambig--> |  |
