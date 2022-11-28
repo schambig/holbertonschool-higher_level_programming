@@ -107,7 +107,7 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[16-answer.txt](16-answer.txt)</pre><!--@schambig--> | What does this script print? <pre>def increment(n):<br>    n += 1<br><br>a = 1<br>increment(a)<br>print(a)</pre> |
 | <pre>[17-answer.txt](17-answer.txt)</pre><!--@schambig--> | What does this script print? <pre>def increment(n):<br>    n.append(4)<br><br>l = [1, 2, 3]<br>increment(l)<br>print(l)</pre> |
 | <pre>[18-answer.txt](18-answer.txt)</pre><!--@schambig--> | What does this script print? <pre>def assign_value(n, v):<br>    n = v<br><br>l = [1, 2, 3]<br>l2 = [4, 5, 6]<br>assign_value(l1, l2)<br>print(l1)</pre> |
-| <pre>[19-copy_list.py](19-copy_list.py)</pre><!--@schambig--> |  |
+| <pre>[19-copy_list.py](19-copy_list.py)</pre><!--@schambig--> | Write a function `def copy_list(l):` that returns a copy of a list.<br>- The input list can contain any type of objects<br>- Your file should be maximum 3-line long (no documentation needed)<br>- You are not allowed to import any module |
 | <pre>[20-answer.txt](20-answer.txt)</pre><!--@schambig--> |  |
 | <pre>[21-answer.txt](21-answer.txt)</pre><!--@schambig--> |  |
 | <pre>[22-answer.txt](22-answer.txt)</pre><!--@schambig--> |  |
