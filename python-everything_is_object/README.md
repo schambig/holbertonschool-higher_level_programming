@@ -98,10 +98,10 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[7-answer.txt](7-answer.txt)</pre><!--@schambig--> | What do these 3 lines print? <pre>>>> s1 = "Best"<br>>>> s2 = s1<br>>>> print(s1 is s2)</pre> |
 | <pre>[8-answer.txt](8-answer.txt)</pre><!--@schambig--> | What do these 3 lines print? <pre>>>> s1 = "Best School"<br>>>> s2 = "Best School"<br>>>> print(s1 == s2)</pre> |
 | <pre>[9-answer.txt](9-answer.txt)</pre><!--@schambig--> | What do these 3 lines print? <pre>>>> s1 = "Best School"<br>>>> s2 = "Best School"<br>>>> print(s1 is s2)</pre> |
-| <pre>[10-answer.txt](10-answer.txt)</pre><!--@schambig--> |  |
-| <pre>[11-answer.txt](11-answer.txt)</pre><!--@schambig--> |  |
-| <pre>[12-answer.txt](12-answer.txt)</pre><!--@schambig--> |  |
-| <pre>[13-answer.txt](13-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[10-answer.txt](10-answer.txt)</pre><!--@schambig--> | What do these 3 lines print? <pre>>>> l1 = [1, 2, 3]<br>>>> l2 = [1, 2, 3]<br>>>> print(l1 == l2)</pre> |
+| <pre>[11-answer.txt](11-answer.txt)</pre><!--@schambig--> | What do these 3 lines print? <pre>>>> l1 = [1, 2, 3]<br>>>> l2 = [1, 2, 3]<br>>>> print(l1 is l2)</pre> |
+| <pre>[12-answer.txt](12-answer.txt)</pre><!--@schambig--> | What do these 3 lines print? <pre>>>> l1 = [1, 2, 3]<br>>>> l2 = l1<br>>>> print(l1 == l2)</pre> |
+| <pre>[13-answer.txt](13-answer.txt)</pre><!--@schambig--> | What do these 3 lines print? <pre>>>> l1 = [1, 2, 3]<br>>>> l2 = l1<br>>>> print(l1 is l2)</pre> |
 | <pre>[14-answer.txt](14-answer.txt)</pre><!--@schambig--> |  |
 | <pre>[15-answer.txt](15-answer.txt)</pre><!--@schambig--> |  |
 | <pre>[16-answer.txt](16-answer.txt)</pre><!--@schambig--> |  |
@@ -117,7 +117,7 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[26-answer.txt](26-answer.txt)</pre><!--@schambig--> |  |
 | <pre>[27-answer.txt](27-answer.txt)</pre><!--@schambig--> |  |
 | <pre>[28-answer.txt](28-answer.txt)</pre><!--@schambig--> |  |
-
+<!-- <pre><br><br></pre> -->
 
 ## Usage<!--@schambig-->
 
