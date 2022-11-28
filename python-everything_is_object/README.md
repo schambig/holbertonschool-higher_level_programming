@@ -102,7 +102,7 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[11-answer.txt](11-answer.txt)</pre><!--@schambig--> | What do these 3 lines print? <pre>>>> l1 = [1, 2, 3]<br>>>> l2 = [1, 2, 3]<br>>>> print(l1 is l2)</pre> |
 | <pre>[12-answer.txt](12-answer.txt)</pre><!--@schambig--> | What do these 3 lines print? <pre>>>> l1 = [1, 2, 3]<br>>>> l2 = l1<br>>>> print(l1 == l2)</pre> |
 | <pre>[13-answer.txt](13-answer.txt)</pre><!--@schambig--> | What do these 3 lines print? <pre>>>> l1 = [1, 2, 3]<br>>>> l2 = l1<br>>>> print(l1 is l2)</pre> |
-| <pre>[14-answer.txt](14-answer.txt)</pre><!--@schambig--> |  |
+| <pre>[14-answer.txt](14-answer.txt)</pre><!--@schambig--> | What does this script print? <pre>l1 = [1, 2, 3]<br>l2 = l1<br>l1.append(4)<br>print(l2)</pre> |
 | <pre>[15-answer.txt](15-answer.txt)</pre><!--@schambig--> |  |
 | <pre>[16-answer.txt](16-answer.txt)</pre><!--@schambig--> |  |
 | <pre>[17-answer.txt](17-answer.txt)</pre><!--@schambig--> |  |
