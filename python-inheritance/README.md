@@ -49,7 +49,7 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[0-lookup.py](0-lookup.py)</pre><!--@schambig--> |  |
+| <pre>[0-lookup.py](0-lookup.py)</pre><!--@schambig--> | Write a function that returns the list of available attributes and methods of an object: <pre>• Prototype: `def lookup(obj):`<br>• Returns a `list` object<br>• You are not allowed to import any module</pre> |
 | <pre>[1-my_list.py](1-my_list.py)</pre><!--@schambig--> |  |
 | <pre>[2-is_same_class.py](2-is_same_class.py)</pre><!--@schambig--> |  |
 | <pre>[3-is_kind_of_class.py](3-is_kind_of_class.py)</pre><!--@schambig--> |  |
