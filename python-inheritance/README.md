@@ -18,19 +18,26 @@ Inheritance allows us to define a class that inherits all the methods and proper
 
 After this project I was able to [explain to anyone](https://fs.blog/feynman-learning-technique/):
 
-* This
-* Also this
+* What is a superclass, baseclass or parentclass
+* What is a subclass
+* How to list all attributes and methods of a class or instance
+* When can an instance have new attributes
+* How to inherit class from another
+* How to define a class with multiple base classes
+* What is the default class every class inherit from
+* How to override a method or attribute inherited from the base class
+* Which attributes or methods are available by heritage to subclasses
+* What is the purpose of inheritance
+* What are, when and how to use `isinstance`, `issubclass`, `type` and `super` built-in functions
 
 ## Resources<!--@schambig-->
 
 Important concepts to help you understand this project:
 
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Inheritance](https://docs.python.org/3/tutorial/classes.html#inheritance)
+* [Multiple inheritance](https://docs.python.org/3/tutorial/classes.html#multiple-inheritance)
+* [Inheritance in Python](https://hub.packtpub.com/inheritance-python/)
+* [Learn to Program 10 : Inheritance Magic Methods](https://www.youtube.com/watch?v=d8kCdLCi6Lk) (Derek Banas video)
 
 
 ## File structure<!--@schambig-->
