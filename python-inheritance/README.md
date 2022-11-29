@@ -14,7 +14,7 @@
 
 Python is an interpreted, high-level, general-purpose programming language, it has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
 
-This project ... .
+Inheritance allows us to define a class that inherits all the methods and properties from another class. Parent class is the class being inherited from, also called base class. Child class is the class that inherits from another class, also called derived class. This project covers the nuances of these concepts.
 
 After this project I was able to [explain to anyone](https://fs.blog/feynman-learning-technique/):
 
