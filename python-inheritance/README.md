@@ -49,17 +49,18 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[0-lookup.py](0-lookup.py)</pre><!--@schambig--> |  |
+| <pre>[1-my_list.py](1-my_list.py)</pre><!--@schambig--> |  |
+| <pre>[2-is_same_class.py](2-is_same_class.py)</pre><!--@schambig--> |  |
+| <pre>[3-is_kind_of_class.py](3-is_kind_of_class.py)</pre><!--@schambig--> |  |
+| <pre>[4-inherits_from.py](4-inherits_from.py)</pre><!--@schambig--> |  |
+| <pre>[5-base_geometry.py](5-base_geometry.py)</pre><!--@schambig--> |  |
+| <pre>[6-base_geometry.py](6-base_geometry.py)</pre><!--@schambig--> |  |
+| <pre>[7-base_geometry.py](7-base_geometry.py)</pre><!--@schambig--> |  |
+| <pre>[8-rectangle.py](8-rectangle.py)</pre><!--@schambig--> |  |
+| <pre>[9-rectangle.py](9-rectangle.py)</pre><!--@schambig--> |  |
+| <pre>[10-square.py](10-square.py)</pre><!--@schambig--> |  |
+| <pre>[11-square.py](11-square.py)</pre><!--@schambig--> |  |
 <!-- <pre><br><br></pre> • -->
 
 ## Usage<!--@schambig-->
