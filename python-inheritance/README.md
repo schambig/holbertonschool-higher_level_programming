@@ -59,11 +59,11 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[7-base_geometry.py](7-base_geometry.py)</pre><!--@schambig--> | Write a class `BaseGeometry` (based on `6-base_geometry.py`).<br>• Public instance method: `def area(self):` that raises an `Exception` with the message `area() is not implemented`<br>• Public instance method: `def integer_validator(self, name, value):` that validates `value`:<br>• You are not allowed to import any module |
 | <pre>[8-rectangle.py](8-rectangle.py)</pre><!--@schambig--> | Write a class `Rectangle` that inherits from `BaseGeometry` (`7-base_geometry.py`).<br>• Instantiation with `width` and `height`: `def __init__(self, width, height):` |
 | <pre>[9-rectangle.py](9-rectangle.py)</pre><!--@schambig--> | Write a class `Rectangle` that inherits from `BaseGeometry` (`7-base_geometry.py`). (task based on `8-rectangle.py`)<br>• Instantiation with `width` and `height`: `def __init__(self, width, height):`<br>• the `area()` method must be implemented<br>• `print()` should print, and `str()` should return, the following rectangle description: `[Rectangle] <width>/<height>` |
-| <pre>[10-square.py](10-square.py)</pre><!--@schambig--> |  | 
-| <pre>[11-square.py](11-square.py)</pre><!--@schambig--> |  |
-<!-- <pre><br><br></pre> • <br>• -->
+| <pre>[10-square.py](10-square.py)</pre><!--@schambig--> | Write a class `Square` that inherits from `Rectangle` (`9-rectangle.py`):<br>• Instantiation with size: `def __init__(self, size):`<br>• the `area()` method must be implemented | 
+| <pre>[11-square.py](11-square.py)</pre><!--@schambig--> | Write a class `Square` that inherits from `Rectangle` (`9-rectangle.py`). (task based on `10-square.py`).<br>• Instantiation with size: `def __init__(self, size):`<br>• the `area()` method must be implemented<br>• `print()` should print, and `str()` should return, the square description: `[Square] <width>/<height>` |
+<!-- <pre><br><br></pre> • <br>• -->`
 
-## Usage<!--@schambig-->
+##  Usage<!--@schambig-->
 
 To try this project, first clone the repository to your machine :
 
