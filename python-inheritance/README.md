@@ -53,13 +53,13 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[1-my_list.py](1-my_list.py)</pre><!--@schambig--> | Write a class `MyList` that inherits from `list`: <br>• Public instance method: `def print_sorted(self):` that prints the list, but sorted (ascending sort)<br>• You can assume that all the elements of the list will be of type `int`<br>• You are not allowed to import any module |
 | <pre>[2-is_same_class.py](2-is_same_class.py)</pre><!--@schambig--> | Write a function that returns `True` if the object is exactly an instance of the specified class ; otherwise `False`.<br>• Prototype: `def is_same_class(obj, a_class):`<br>• You are not allowed to import any module |
 | <pre>[3-is_kind_of_class.py](3-is_kind_of_class.py)</pre><!--@schambig--> | Write a function that returns `True` if the object is an instance of, or if the object is an instance of a class that inherited from, the specified class ; otherwise `False`.<br>• Prototype: `def is_kind_of_class(obj, a_class):`<br>• You are not allowed to import any module |
-| <pre>[4-inherits_from.py](4-inherits_from.py)</pre><!--@schambig--> | Write a function that returns `True` if the object is an instance of a class that inherited (directly or indirectly) from the specified class ; otherwise `False`.<br>• Prototype: `def inherits_from(obj, a_class):`<br>• You are not allowed to import any module |
+| <pre>[4-inherits_from.py](4-inherits_from.py)</pre><!--@schambig--> | Write a function that returns `True` if the object is an instance of a class that inherited (directly or indirectly) from the specified class ; otherwise `False`.<br>• Prototype: `def inherits_from(obj, a_class):`<br>• You are not allowed to `import` any `modul`e |
 | <pre>[5-base_geometry.py](5-base_geometry.py)</pre><!--@schambig--> | Write an empty class `BaseGeometry`.<br>• You are not allowed to import any module |
-| <pre>[6-base_geometry.py](6-base_geometry.py)</pre><!--@schambig--> | Write a class `BaseGeometry` (based on `5-base_geometry.py`).<br>• Public instance method: `def area(self):` that raises an `Exception` with the message `area() is not implemented` |
-| <pre>[7-base_geometry.py](7-base_geometry.py)</pre><!--@schambig--> |  |
-| <pre>[8-rectangle.py](8-rectangle.py)</pre><!--@schambig--> |  |
-| <pre>[9-rectangle.py](9-rectangle.py)</pre><!--@schambig--> |  |
-| <pre>[10-square.py](10-square.py)</pre><!--@schambig--> |  |
+| <pre>[6-base_geometry.py](6-base_geometry.py)</pre><!--@schambig--> | Write a class `BaseGeometry` (based on `5-base_geometry.py`).<br>• Public instance method: `def area(self):` that raises an `Exception` with the message `area() is not implemented`<br>• You are not allowed to import any module |
+| <pre>[7-base_geometry.py](7-base_geometry.py)</pre><!--@schambig--> | Write a class `BaseGeometry` (based on `6-base_geometry.py`).<br>• Public instance method: `def area(self):` that raises an `Exception` with the message `area() is not implemented`<br>• Public instance method: `def integer_validator(self, name, value):` that validates `value`:<br>• You are not allowed to import any module |
+| <pre>[8-rectangle.py](8-rectangle.py)</pre><!--@schambig--> | Write a class `Rectangle` that inherits from `BaseGeometry` (`7-base_geometry.py`).<br>• Instantiation with `width` and `height`: `def __init__(self, width, height):` |
+| <pre>[9-rectangle.py](9-rectangle.py)</pre><!--@schambig--> | Write a class `Rectangle` that inherits from `BaseGeometry` (`7-base_geometry.py`). (task based on `8-rectangle.py`)<br>• Instantiation with `width` and `height`: `def __init__(self, width, height):`<br>• the `area()` method must be implemented<br>• `print()` should print, and `str()` should return, the following rectangle description: `[Rectangle] <width>/<height>` |
+| <pre>[10-square.py](10-square.py)</pre><!--@schambig--> |  | 
 | <pre>[11-square.py](11-square.py)</pre><!--@schambig--> |  |
 <!-- <pre><br><br></pre> • <br>• -->
 
