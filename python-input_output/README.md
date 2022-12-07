@@ -14,7 +14,7 @@
 
 Python is an interpreted, high-level, general-purpose programming language, it has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
 
-In this project we will use `open()` function with its modes `w`: write, `r`:read, also we will work with the `json` module to serialize and deserialize objects.
+In this project we will use `open()` function with its modes `w`: write, `r`: read, also we will work with the `json` module to serialize and deserialize objects.
 
 After this project I was able to [explain to anyone](https://fs.blog/feynman-learning-technique/):
 
@@ -52,18 +52,20 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-<!-- <pre><br><br></pre> • -->
+| <pre>[0-read_file.py](0-read_file.py)</pre><!--@schambig--> |  |
+| <pre>[1-write_file.py](1-write_file.py)</pre><!--@schambig--> |  |
+| <pre>[2-append_write.py](2-append_write.py)</pre><!--@schambig--> |  |
+| <pre>[3-to_json_string.py](3-to_json_string.py)</pre><!--@schambig--> |  |
+| <pre>[4-from_json_string.py](4-from_json_string.py)</pre><!--@schambig--> |  |
+| <pre>[5-save_to_json_file.py](5-save_to_json_file.py)</pre><!--@schambig--> |  |
+| <pre>[6-load_from_json_file.py](6-load_from_json_file.py)</pre><!--@schambig--> |  |
+| <pre>[7-add_item.py](7-add_item.py)</pre><!--@schambig--> |  |
+| <pre>[8-class_to_json.py](8-class_to_json.py)</pre><!--@schambig--> |  |
+| <pre>[9-student.py](9-student.py)</pre><!--@schambig--> |  |
+| <pre>[10-student.py](10-student.py)</pre><!--@schambig--> |  |
+| <pre>[11-student.py](11-student.py)</pre><!--@schambig--> |  |
+| <pre>[12-pascal_triangle.py](12-pascal_triangle.py)</pre><!--@schambig--> |  |
+<!-- <pre><br><br></pre> • <br>•-->
 
 ## Usage<!--@schambig-->
 
