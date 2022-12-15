@@ -63,8 +63,8 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[8-class_to_json.py](8-class_to_json.py)</pre><!--@schambig--> | Write a function that returns the dictionary description with simple data structure (list, dictionary, string, integer and boolean) for JSON serialization of an object: |
 | <pre>[9-student.py](9-student.py)</pre><!--@schambig--> | Write a class Student that defines a student by: |
 | <pre>[10-student.py](10-student.py)</pre><!--@schambig--> | Write a class Student that defines a student by: (based on 9-student.py) |
-| <pre>[11-student.py](11-student.py)</pre><!--@schambig--> |  |
-| <pre>[12-pascal_triangle.py](12-pascal_triangle.py)</pre><!--@schambig--> |  |
+| <pre>[11-student.py](11-student.py)</pre><!--@schambig--> | Write a class Student that defines a student by: (based on 10-student.py) |
+| <pre>[12-pascal_triangle.py](12-pascal_triangle.py)</pre><!--@schambig--> | Create a function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n: |
 <!-- <pre><br><br></pre> • <br>•-->
 
 ## Usage<!--@schambig-->
