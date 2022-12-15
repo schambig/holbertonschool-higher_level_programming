@@ -55,8 +55,8 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[0-read_file.py](0-read_file.py)</pre><!--@schambig--> | Write a function that reads a text file (` UTF8`) and prints it to stdout:<br>• Prototype: `def read_file(filename=""):`<br>• You must use the `with` statement<br>• You don’t need to manage `file permission` or `file doesn't exist` exceptions.<br>• You are not allowed to import any module |
 | <pre>[1-write_file.py](1-write_file.py)</pre><!--@schambig--> | Write a function that writes a string to a text file (UTF8) and returns the number of characters written: |
 | <pre>[2-append_write.py](2-append_write.py)</pre><!--@schambig--> | Write a function that appends a string at the end of a text file (UTF8) and returns the number of characters added: |
-| <pre>[3-to_json_string.py](3-to_json_string.py)</pre><!--@schambig--> |  |
-| <pre>[4-from_json_string.py](4-from_json_string.py)</pre><!--@schambig--> |  |
+| <pre>[3-to_json_string.py](3-to_json_string.py)</pre><!--@schambig--> | Write a function that returns the JSON representation of an object (string): |
+| <pre>[4-from_json_string.py](4-from_json_string.py)</pre><!--@schambig--> | Write a function that returns an object (Python data structure) represented by a JSON string: |
 | <pre>[5-save_to_json_file.py](5-save_to_json_file.py)</pre><!--@schambig--> |  | 
 | <pre>[6-load_from_json_file.py](6-load_from_json_file.py)</pre><!--@schambig--> |  |
 | <pre>[7-add_item.py](7-add_item.py)</pre><!--@schambig--> |  |
