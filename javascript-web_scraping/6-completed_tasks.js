@@ -1,7 +1,16 @@
 #!/usr/bin/node
-const url = 'https://jsonplaceholder.typicode.com/todos' + '?completed=true';
 const request = require('request');
-request.get(url, (err, response, body) => {
-  if (err) throw err;
-  console.log(JSON.parse(body));
+request(process.argv[2], function (err, response, body) {
+  if (!err) {
+    const todos = JSON.parse(body);
+    const completed = {};
+    todos.forEach((todo) => {
+      if (todo.completed && completed[todo.userId] === undefined) {
+        completed[todo.userId] = 1;
+      } else if (todo.completed) {
+        completed[todo.userId] += 1;
+      }
+    });
+    console.log(completed);
+  }
 });
