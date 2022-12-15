@@ -60,9 +60,9 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[5-save_to_json_file.py](5-save_to_json_file.py)</pre><!--@schambig--> | Write a function that writes an Object to a text file, using a JSON representation: | 
 | <pre>[6-load_from_json_file.py](6-load_from_json_file.py)</pre><!--@schambig--> | Write a function that creates an Object from a “JSON file”: |
 | <pre>[7-add_item.py](7-add_item.py)</pre><!--@schambig--> | Write a script that adds all arguments to a Python list, and then save them to a file: |
-| <pre>[8-class_to_json.py](8-class_to_json.py)</pre><!--@schambig--> |  |
-| <pre>[9-student.py](9-student.py)</pre><!--@schambig--> |  |
-| <pre>[10-student.py](10-student.py)</pre><!--@schambig--> |  |
+| <pre>[8-class_to_json.py](8-class_to_json.py)</pre><!--@schambig--> | Write a function that returns the dictionary description with simple data structure (list, dictionary, string, integer and boolean) for JSON serialization of an object: |
+| <pre>[9-student.py](9-student.py)</pre><!--@schambig--> | Write a class Student that defines a student by: |
+| <pre>[10-student.py](10-student.py)</pre><!--@schambig--> | Write a class Student that defines a student by: (based on 9-student.py) |
 | <pre>[11-student.py](11-student.py)</pre><!--@schambig--> |  |
 | <pre>[12-pascal_triangle.py](12-pascal_triangle.py)</pre><!--@schambig--> |  |
 <!-- <pre><br><br></pre> • <br>•-->
