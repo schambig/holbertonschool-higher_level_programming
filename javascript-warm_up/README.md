@@ -64,17 +64,20 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[0-javascript_is_amazing.js](0-javascript_is_amazing.js)</pre><!--@schambig--> | Write a script that prints “JavaScript is amazing”:<br>• You must create a constant variable called `myVar` with the value “JavaScript is amazing”<br>• You must use `console.log(...)` to print all output<br>• You are not allowed to use `var` |
+| <pre>[1-multi_languages.js](1-multi_languages.js)</pre><!--@schambig--> | Write a script that prints 3 lines:<br>• The first line: “C is fun”<br>• The second line: “Python is cool”<br>• The third line: “JavaScript is amazing”<br>• You must use `console.log(...)` to print all output<br>• You are not allowed to use `var` |
+| <pre>[2-arguments.js](2-arguments.js)</pre><!--@schambig--> | Write a script that prints a message depending of the number of arguments passed:<br>• If no arguments are passed to the script, print “No argument”<br>• If only one argument is passed to the script, print “Argument found”<br>• Otherwise, print “Arguments found”<br>• You must use `console.log(...)` to print all output<br>• You are not allowed to use `var` |
+| <pre>[3-value_argument.js](3-value_argument.js)</pre><!--@schambig--> |  |
+| <pre>[4-concat.js](4-concat.js)</pre><!--@schambig--> |  |
+| <pre>[5-to_integer.js](5-to_integer.js)</pre><!--@schambig--> |  |
+| <pre>[6-multi_languages_loop.js](6-multi_languages_loop.js)</pre><!--@schambig--> |  |
+| <pre>[7-multi_c.js](7-multi_c.js)</pre><!--@schambig--> |  |
+| <pre>[8-square.js](8-square.js)</pre><!--@schambig--> |  |
+| <pre>[9-add.js](9-add.js)</pre><!--@schambig--> |  |
+| <pre>[10-factorial.js](10-factorial.js)</pre><!--@schambig--> |  |
+| <pre>[11-second_biggest.js](11-second_biggest.js)</pre><!--@schambig--> |  |
+| <pre>[12-object.js](12-object.js)</pre><!--@schambig--> |  |
+| <pre>[13-add.js](13-add.js)</pre><!--@schambig--> |  |
 <!-- <pre><br><br></pre> • <br>•-->
 
 ## Usage<!--@schambig-->
