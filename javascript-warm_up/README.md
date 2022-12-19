@@ -59,8 +59,8 @@ Important concepts to help you understand this project:
 
 This table contains a brief description of the working files of the project, click on the names to get the source code.
 
-* All these files were interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
-* All these source code use the pycodestyle (version 2.7.*)
+* All these files were interpreted on Ubuntu 20.04 LTS using `node` (version 14.x)
+* This code is `semistandard` compliant (version 16.x.x). [Rules of Standard](https://standardjs.com/rules.html) + [semicolons on top](https://github.com/standard/semistandard). Also as reference: [AirBnB style](https://github.com/airbnb/javascript)
 
 | Filename | Description/Task |
 | --- | --- |
