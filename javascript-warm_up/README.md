@@ -76,9 +76,9 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[8-square.js](8-square.js)</pre><!--@schambig--> | Write a script that prints a square<br>• The first argument is the size of the square<br>• If the first argument can’t be converted to an integer, print “Missing size”<br>• You must use the character `X` to print the square<br>• You must use `console.log(...)` to print all output<br>• You are not allowed to use `var`<br>• You must use a loop (`while`, `for`, etc.) |
 | <pre>[9-add.js](9-add.js)</pre><!--@schambig--> | Write a script that prints the addition of 2 integers<br>• The first argument is the first integer<br>• The second argument is the second integer<br>• You have to define a function with this prototype: `function add(a, b)`<br>• You must use `console.log(...)` to print all output<br>• You are not allowed to use `var` |
 | <pre>[10-factorial.js](10-factorial.js)</pre><!--@schambig--> | Write a script that computes and prints a factorial<br>• The first argument is integer (argument can be cast as integer) used for computing the factorial<br>• Factorial of `NaN` is `1`<br>• You must do it recursively<br>• You must use a function<br>• You must use `console.log(...)` to print all output<br>• You are not allowed to use `var` |
-| <pre>[11-second_biggest.js](11-second_biggest.js)</pre><!--@schambig--> |  |
-| <pre>[12-object.js](12-object.js)</pre><!--@schambig--> |  |
-| <pre>[13-add.js](13-add.js)</pre><!--@schambig--> |  |
+| <pre>[11-second_biggest.js](11-second_biggest.js)</pre><!--@schambig--> | Write a script that searches the second biggest integer in the list of arguments.<br>• You can assume all arguments can be converted to integer<br>• If no argument passed, print `0`<br>• If the number of arguments is 1, print `0`<br>• You must use `console.log(...)` to print all output<br>• You are not allowed to use `var` |
+| <pre>[12-object.js](12-object.js)</pre><!--@schambig--> | Update this script to replace the value `12` with `89`:<br>• You are not allowed to use `var` |
+| <pre>[13-add.js](13-add.js)</pre><!--@schambig--> | Write a function that returns the addition of 2 integers.<br>• The function must be visible from outside<br>• The name of the function must be `add`<br>• You are not allowed to use `var` |
 <!-- <pre><br><br></pre> • <br>•-->
 
 ## Usage<!--@schambig-->
