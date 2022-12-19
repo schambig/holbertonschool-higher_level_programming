@@ -13,6 +13,7 @@
 ## Description<!--@schambig-->
 
 JavaScript (or "JS") is a programming language used most often for dynamic client-side scripts on webpages, but it is also often used on the server-side, using a runtime such as Node.js.
+
 JavaScript is primarily used in the browser, enabling developers to manipulate webpage content through the DOM, manipulate data with AJAX and IndexedDB, draw graphics with canvas, interact with the device running the browser through various APIs, and more.
 
 In this project we will learn the basic concepts of the language and do some scripting .
@@ -67,10 +68,10 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[0-javascript_is_amazing.js](0-javascript_is_amazing.js)</pre><!--@schambig--> | Write a script that prints “JavaScript is amazing”:<br>• You must create a constant variable called `myVar` with the value “JavaScript is amazing”<br>• You must use `console.log(...)` to print all output<br>• You are not allowed to use `var` |
 | <pre>[1-multi_languages.js](1-multi_languages.js)</pre><!--@schambig--> | Write a script that prints 3 lines:<br>• The first line: “C is fun”<br>• The second line: “Python is cool”<br>• The third line: “JavaScript is amazing”<br>• You must use `console.log(...)` to print all output<br>• You are not allowed to use `var` |
 | <pre>[2-arguments.js](2-arguments.js)</pre><!--@schambig--> | Write a script that prints a message depending of the number of arguments passed:<br>• If no arguments are passed to the script, print “No argument”<br>• If only one argument is passed to the script, print “Argument found”<br>• Otherwise, print “Arguments found”<br>• You must use `console.log(...)` to print all output<br>• You are not allowed to use `var`<br>Reference: [process.argv](https://nodejs.org/api/process.html#process_process_argv) |
-| <pre>[3-value_argument.js](3-value_argument.js)</pre><!--@schambig--> |  |
-| <pre>[4-concat.js](4-concat.js)</pre><!--@schambig--> |  |
-| <pre>[5-to_integer.js](5-to_integer.js)</pre><!--@schambig--> |  |
-| <pre>[6-multi_languages_loop.js](6-multi_languages_loop.js)</pre><!--@schambig--> |  |
+| <pre>[3-value_argument.js](3-value_argument.js)</pre><!--@schambig--> | Write a script that prints the first argument passed to it:<br>• If no arguments are passed to the script, print “No argument”<br>• You must use `console.log(...)` to print all output<br>• You are not allowed to use `var`<br>• You are not allowed to use `length` |
+| <pre>[4-concat.js](4-concat.js)</pre><!--@schambig--> | Write a script that prints two arguments passed to it, in the following format: “ is ”<br>• You must use `console.log(...)` to print all output<br>• You are not allowed to use `var` |
+| <pre>[5-to_integer.js](5-to_integer.js)</pre><!--@schambig--> | Write a script that prints `My number: <first argument converted in integer>` if the first argument can be converted to an integer:<br>• If the argument can’t be converted to an integer, print “Not a number”<br>• You must use `console.log(...)` to print all output<br>• You are not allowed to use `var`<br>• You are not allowed to use `try/catch` |
+| <pre>[6-multi_languages_loop.js](6-multi_languages_loop.js)</pre><!--@schambig--> | Write a script that prints 3 lines: (like `1-multi_languages.js`) but by using an array of string and a loop<br>• The first line: “C is fun”<br>• The second line: “Python is cool”<br>• The third line: “JavaScript is amazing”<br>• You must use `console.log(...)` to print all output<br>• You are not allowed to use `var`<br>• You are not allowed to use any `if/else` statement<br>• You can use only one `console.log`<br>• You must use a loop (`while`, `for`, etc.) |
 | <pre>[7-multi_c.js](7-multi_c.js)</pre><!--@schambig--> |  |
 | <pre>[8-square.js](8-square.js)</pre><!--@schambig--> |  |
 | <pre>[9-add.js](9-add.js)</pre><!--@schambig--> |  |
