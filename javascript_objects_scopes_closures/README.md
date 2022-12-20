@@ -59,13 +59,13 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[4-rectangle.js](4-rectangle.js)</pre><!--@schambig--> | Write a class `Rectangle` that defines a rectangle:<br>• You must use the `class` notation for defining your class<br>• The constructor must take 2 arguments `w` and `h`<br>• Initialize the instance attribute `width` with the value of `w`<br>• Initialize the instance attribute `height` with the value of `h`<br>• If `w` or `h` is equal to 0 or not a positive integer, create an empty object<br>• Create an instance method called `print()` that prints the rectangle using the character `X`<br>• Create an instance method called `rotate()` that exchanges the `width` and the `height` of the rectangle<br>• Create an instance method called `double()` that multiples the `width` and the `height` of the rectangle by 2 |
 | <pre>[5-square.js](5-square.js)</pre><!--@schambig--> | Write a class `Square` that defines a square and inherits from `Rectangle` of `4-rectangle.js`:<br>• You must use the `class` notation for defining your class and `extends`<br>• The constructor must take 1 argument: `size`<br>• The constructor of `Rectangle` must be called (by using `super()`) |
 | <pre>[6-square.js](6-square.js)</pre><!--@schambig--> | Write a class `Square` that defines a square and inherits from `Square` of `5-square.js`:<br>• You must use the `class` notation for defining your class and `extends`<br>• Create an instance method called `charPrint(c)` that prints the rectangle using the character `c`<br>&nbsp;&nbsp;&nbsp;&nbsp;• If `c` is `undefined`, use the character `X` |
-| <pre>[7-occurrences.js](7-occurrences.js)</pre><!--@schambig--> |  |
-| <pre>[8-esrever.js](8-esrever.js)</pre><!--@schambig--> |  |
-| <pre>[9-logme.js](9-logme.js)</pre><!--@schambig--> |  |
-| <pre>[10-converter.js](10-converter.js)</pre><!--@schambig--> |  |
+| <pre>[7-occurrences.js](7-occurrences.js)</pre><!--@schambig--> | Write a function that returns the number of occurrences in a list:<br>• Prototype: `exports.nbOccurences = function (list, searchElement)` |
+| <pre>[8-esrever.js](8-esrever.js)</pre><!--@schambig--> | Write a function that returns the reversed version of a list:<br>• Prototype: `exports.esrever = function (list)`<br>• You are not allow to use the built-in method `reverse` |
+| <pre>[9-logme.js](9-logme.js)</pre><!--@schambig--> | Write a function that prints the number of arguments already printed and the new argument value. (see example below)<br>• Prototype: `exports.logMe = function (item)`<br>• Output format: `<number arguments already printed>: <current argument value>` |
+| <pre>[10-converter.js](10-converter.js)</pre><!--@schambig--> | Write a function that converts a number from base 10 to another base passed as argument:<br>• Prototype: `exports.converter = function (base)`<br>• You are not allowed to import any file<br>• You are not allowed to declare any new variable (`var`, `let`, etc..) |
 <!-- <pre><br><br></pre> • <br>•-->
 
-## Usage<!--@schambig-->
+## Usage<!--@schambig-->let
 
 To try this project, first clone the repository to your machine :
 
@@ -76,7 +76,7 @@ $ git clone https://github.com/schambig/holbertonschool-higher_level_programming
 Then, go to the project directory:
 
 ```
-$ cd 
+$ cd javascript_objects_scopes_closures
 ```
 
 Finally, you can execute the scripts:
