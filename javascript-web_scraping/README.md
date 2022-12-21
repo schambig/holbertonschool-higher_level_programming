@@ -47,10 +47,10 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[0-readme.js](0-readme.js)</pre><!--@schambig--> | Write a script that reads and prints the content of a file.<br>• The first argument is the file path<br>• The content of the file must be read in `utf-8`<br>• If an error occurred during the reading, print the error object |
 | <pre>[1-writeme.js](1-writeme.js)</pre><!--@schambig--> | Write a script that writes a string to a file.<br>• The first argument is the file path<br>• The second argument is the string to write<br>• The content of the file must be read in `utf-8`<br>• If an error occurred during while writing, print the error object |
 | <pre>[2-statuscode.js](2-statuscode.js)</pre><!--@schambig--> | Write a script that display the status code of a `GET` request.<br>• The first argument is the URL to request (`GET`)<br>• The status code must be printed like this: code: `<status code>`<br>• You must use the module `request` |
-| <pre>[3-starwars_title.js](3-starwars_title.js)</pre><!--@schambig--> |  |
-| <pre>[4-starwars_count.js](4-starwars_count.js)</pre><!--@schambig--> |  |
-| <pre>[5-request_store.js](5-request_store.js)</pre><!--@schambig--> |  |
-| <pre>[6-completed_tasks.js](6-completed_tasks.js)</pre><!--@schambig--> |  |
+| <pre>[3-starwars_title.js](3-starwars_title.js)</pre><!--@schambig--> | Write a script that prints the title of a Star Wars movie where the episode number matches a given integer.<br>• The first argument is the movie ID<br>• You must use the [`Star wars API`](https://swapi-api.hbtn.io/) with the endpoint `https://swapi-api.hbtn.io/api/films/:id`<br>• You must use the module `request` |
+| <pre>[4-starwars_count.js](4-starwars_count.js)</pre><!--@schambig--> | Write a script that prints the number of movies where the character “Wedge Antilles” is present.<br>• he first argument is the API URL of the [`Star wars API`](https://swapi-api.hbtn.io/): `https://swapi-api.hbtn.io/api/films/`<br>• Wedge Antilles is character ID `18` - your script must use this ID for filtering the result of the API<br>• You must use the module `request` |
+| <pre>[5-request_store.js](5-request_store.js)</pre><!--@schambig--> | Write a script that gets the contents of a webpage and stores it in a file.<br>• The first argument is the URL to request<br>• The second argument the file path to store the body response<br>• The file must be UTF-8 encoded<br>• You must use the module `request` |
+| <pre>[6-completed_tasks.js](6-completed_tasks.js)</pre><!--@schambig--> | Write a script that computes the number of tasks completed by user id.<br>• The first argument is the API URL: `https://jsonplaceholder.typicode.com/todos`<br>• Only print users with completed task<br>• You must use the module `request` |
 <!-- <pre><br><br></pre> • <br>•-->
 
 ## Usage<!--@schambig-->
