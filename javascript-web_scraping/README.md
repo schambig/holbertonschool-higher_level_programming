@@ -44,9 +44,9 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[0-readme.js](0-readme.js)</pre><!--@schambig--> |  |
-| <pre>[1-writeme.js](1-writeme.js)</pre><!--@schambig--> |  |
-| <pre>[2-statuscode.js](2-statuscode.js)</pre><!--@schambig--> |  |
+| <pre>[0-readme.js](0-readme.js)</pre><!--@schambig--> | Write a script that reads and prints the content of a file.<br>• The first argument is the file path<br>• The content of the file must be read in `utf-8`<br>• If an error occurred during the reading, print the error object |
+| <pre>[1-writeme.js](1-writeme.js)</pre><!--@schambig--> | Write a script that writes a string to a file.<br>• The first argument is the file path<br>• The second argument is the string to write<br>• The content of the file must be read in `utf-8`<br>• If an error occurred during while writing, print the error object |
+| <pre>[2-statuscode.js](2-statuscode.js)</pre><!--@schambig--> | Write a script that display the status code of a `GET` request.<br>• The first argument is the URL to request (`GET`)<br>• The status code must be printed like this: code: `<status code>`<br>• You must use the module `request` |
 | <pre>[3-starwars_title.js](3-starwars_title.js)</pre><!--@schambig--> |  |
 | <pre>[4-starwars_count.js](4-starwars_count.js)</pre><!--@schambig--> |  |
 | <pre>[5-request_store.js](5-request_store.js)</pre><!--@schambig--> |  |
@@ -64,7 +64,7 @@ $ git clone https://github.com/schambig/holbertonschool-higher_level_programming
 Then, go to the project directory:
 
 ```
-$ cd 
+$ cd javascript-web_scraping
 ```
 
 Finally, you can execute the scripts:
