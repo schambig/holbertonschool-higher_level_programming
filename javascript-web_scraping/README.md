@@ -16,20 +16,23 @@ JavaScript (or "JS") is a programming language used most often for dynamic clien
 
 JavaScript is primarily used in the browser, enabling developers to manipulate webpage content through the DOM, manipulate data with AJAX and IndexedDB, draw graphics with canvas, interact with the device running the browser through various APIs, and more.
 
-In this project ...
+In this project we are going to use `fs` and `request` modules to make requests from an API.
 
 After this project I was able to [explain to anyone](https://fs.blog/feynman-learning-technique/):
 
-*
+* How to manipulate JSON data
+* How to use `request` and fetch API
+* How to read and write a file using `fs` module
 
 
 ## Resources<!--@schambig-->
 
 Important concepts to help you understand this project:
 
-* []()
-* []()
-* []()
+* [Working with JSON data](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+* [The workflow of accessing the attributes of a simply-created JSON object by Jimmy Tran from Cohort 1 - San Francisco](https://medium.com/@vietkieutie/the-workflow-of-accessing-the-attributes-of-a-simply-created-json-object-82a5b33e2319)
+* [request module](https://github.com/request/request)
+* [Modern JS](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 
 ## File structure<!--@schambig-->
