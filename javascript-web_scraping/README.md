@@ -44,17 +44,13 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[0-readme.js](0-readme.js)</pre><!--@schambig--> |  |
+| <pre>[1-writeme.js](1-writeme.js)</pre><!--@schambig--> |  |
+| <pre>[2-statuscode.js](2-statuscode.js)</pre><!--@schambig--> |  |
+| <pre>[3-starwars_title.js](3-starwars_title.js)</pre><!--@schambig--> |  |
+| <pre>[4-starwars_count.js](4-starwars_count.js)</pre><!--@schambig--> |  |
+| <pre>[5-request_store.js](5-request_store.js)</pre><!--@schambig--> |  |
+| <pre>[6-completed_tasks.js](6-completed_tasks.js)</pre><!--@schambig--> |  |
 <!-- <pre><br><br></pre> • <br>•-->
 
 ## Usage<!--@schambig-->
