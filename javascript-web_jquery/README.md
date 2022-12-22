@@ -1,1 +1,78 @@
-JavaScript - Web jQuery
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)<!--@schambig-->
+![GitHub last commit](https://img.shields.io/github/last-commit/schambig/holbertonschool-higher_level_programming)<!--@schambig-->
+[![C|C](https://img.shields.io/badge/Repo-00%20commits-orange.svg)](https://sourcerer.io/schambig)<!--@schambig-->
+
+# JavaScript Web jQuery<!--@schambig-->
+
+[Description](#description) • [Resources](#resources) • <!--@schambig-->[File Structure](#file-structure) • [Usage](#usage)
+
+---
+
+## Description<!--@schambig-->
+
+JavaScript (or "JS") is a programming language used most often for dynamic client-side scripts on webpages, but it is also often used on the server-side, using a runtime such as Node.js.
+
+JavaScript is primarily used in the browser, enabling developers to manipulate webpage content through the DOM, manipulate data with AJAX and IndexedDB, draw graphics with canvas, interact with the device running the browser through various APIs, and more.
+
+In this project ...
+
+After this project I was able to [explain to anyone](https://fs.blog/feynman-learning-technique/):
+
+*
+
+
+## Resources<!--@schambig-->
+
+Important concepts to help you understand this project:
+
+* []()
+* []()
+* []()
+
+
+## File structure<!--@schambig-->
+
+This table contains a brief description of the working files of the project, click on the names to get the source code.
+
+* All these files were interpreted on Ubuntu 20.04 LTS using `node` (version 14.x)
+* This code is `semistandard` compliant (version 16.x.x). [Rules of Standard](https://standardjs.com/rules.html) + [semicolons on top](https://github.com/standard/semistandard). Also as reference: [AirBnB style](https://github.com/airbnb/javascript)
+
+| Filename | Description/Task |
+| --- | --- |
+| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[]()</pre><!--@schambig--> |  |
+<!-- <pre><br><br></pre> • <br>•-->
+
+## Usage<!--@schambig-->
+
+To try this project, first clone the repository to your machine :
+
+```
+$ git clone https://github.com/schambig/holbertonschool-higher_level_programming.git
+```
+
+Then, go to the project directory:
+
+```
+$ cd 
+```
+
+Finally, you can execute the scripts:
+
+```
+$ ./[FILENAME]
+```
+
+
+<p align="center">
+  <img alt="schambig" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
