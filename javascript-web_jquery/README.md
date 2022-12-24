@@ -59,19 +59,20 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[0-script.js](0-script.js)</pre><!--@schambig--> |  |
-| <pre>[1-script.js](1-script.js)</pre><!--@schambig--> |  |
-| <pre>[2-script.js](2-script.js)</pre><!--@schambig--> |  |
-| <pre>[3-script.js](3-script.js)</pre><!--@schambig--> |  |
-| <pre>[4-script.js](4-script.js)</pre><!--@schambig--> |  |
-| <pre>[5-script.js](5-script.js)</pre><!--@schambig--> |  |
-| <pre>[6-script.js](6-script.js)</pre><!--@schambig--> |  |
-| <pre>[7-script.js](7-script.js)</pre><!--@schambig--> |  |
-| <pre>[8-script.js](8-script.js)</pre><!--@schambig--> |  |
-| <pre>[9-script.js](9-script.js)</pre><!--@schambig--> |  |
+| <pre>[0-script.js](0-script.js)</pre><!--@schambig--> | Write a JavaScript script that updates the text color of the `<header>` element to red (`#FF0000`): |
+| <pre>[1-script.js](1-script.js)</pre><!--@schambig--> | Write a JavaScript script that updates the text color of the `<header>` element to red (`#FF0000`): |
+| <pre>[2-script.js](2-script.js)</pre><!--@schambig--> | Write a JavaScript script that updates the text color of the `<header>` element to red (`#FF0000`) when the user clicks on the tag `DIV#red_header`: |
+| <pre>[3-script.js](3-script.js)</pre><!--@schambig--> | Write a JavaScript script that adds the class `red` to the `<header>` element when the user clicks on the tag `DIV#red_header` |
+| <pre>[4-script.js](4-script.js)</pre><!--@schambig--> | Write a JavaScript script that toggles the class of the `<header>` element when the user clicks on the tag `DIV#toggle_header`: |
+| <pre>[5-script.js](5-script.js)</pre><!--@schambig--> | Write a JavaScript script that adds a `<li>` element to a list when the user clicks on the tag `DIV#add_item`: |
+| <pre>[6-script.js](6-script.js)</pre><!--@schambig--> | Write a JavaScript script that updates the text of the `<header>` element to New `Header!!!` when the user clicks on `DIV#update_header` |
+| <pre>[7-script.js](7-script.js)</pre><!--@schambig--> | Write a JavaScript script that fetches the character `name` from this URL: `https://swapi-api.hbtn.io/api/people/5/?format=json` |
+| <pre>[8-script.js](8-script.js)</pre><!--@schambig--> | Write a JavaScript script that fetches and lists the `title` for all movies by using this URL: `https://swapi-api.hbtn.io/api/films/?format=json` |
+| <pre>[9-script.js](9-script.js)</pre><!--@schambig--> | Write a JavaScript script that fetches from `https://stefanbohacek.com/hellosalut/?lang=fr` and displays the value of `hello` from that fetch in the HTML tag `DIV#hello`. |
 <!-- <pre><br><br></pre> • <br>•-->
-8-script.js
-#8-script.js# Usage<!--@schambig-->
+
+
+# Usage<!--@schambig-->
 
 To try this project, first clone the repository to your machine :
 
@@ -82,7 +83,7 @@ $ git clone https://github.com/schambig/holbertonschool-higher_level_programming
 Then, go to the project directory:
 
 ```
-$ cd 
+$ cd javascript-web_jquery
 ```
 
 Finally, you can execute the scripts:
