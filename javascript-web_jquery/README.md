@@ -59,20 +59,19 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
-| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[0-script.js](0-script.js)</pre><!--@schambig--> |  |
+| <pre>[1-script.js](1-script.js)</pre><!--@schambig--> |  |
+| <pre>[2-script.js](2-script.js)</pre><!--@schambig--> |  |
+| <pre>[3-script.js](3-script.js)</pre><!--@schambig--> |  |
+| <pre>[4-script.js](4-script.js)</pre><!--@schambig--> |  |
+| <pre>[5-script.js](5-script.js)</pre><!--@schambig--> |  |
+| <pre>[6-script.js](6-script.js)</pre><!--@schambig--> |  |
+| <pre>[7-script.js](7-script.js)</pre><!--@schambig--> |  |
+| <pre>[8-script.js](8-script.js)</pre><!--@schambig--> |  |
+| <pre>[9-script.js](9-script.js)</pre><!--@schambig--> |  |
 <!-- <pre><br><br></pre> • <br>•-->
-
-## Usage<!--@schambig-->
+8-script.js
+#8-script.js# Usage<!--@schambig-->
 
 To try this project, first clone the repository to your machine :
 
