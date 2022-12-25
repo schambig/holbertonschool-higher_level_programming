@@ -59,8 +59,8 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[0-script.js](0-script.js)</pre><!--@schambig--> | Write a JavaScript script that updates the text color of the `<header>` element to red (`#FF0000`): |
-| <pre>[1-script.js](1-script.js)</pre><!--@schambig--> | Write a JavaScript script that updates the text color of the `<header>` element to red (`#FF0000`): |
+| <pre>[0-script.js](0-script.js)</pre><!--@schambig--> | Write a JavaScript script that updates the text color of the `<header>` element to red (`#FF0000`):<br>• You must use `document.querySelector` to select the HTML tag<br>• You can’t use the JQuery API<br>Please test with [`this HTML file`](https://github.com/schambig/holbertonschool-higher_level_programming/blob/master/javascript-web_jquery/html_files/0-main.html) in your browser |
+| <pre>[1-script.js](1-script.js)</pre><!--@schambig--> | Write a JavaScript script that updates the text color of the `<header>` element to red (`#FF0000`):<br>• You can’t use `document.querySelector` to select the HTML tag<br>• You must use the JQuery API<br>Please test with [`this HTML file`](https://github.com/schambig/holbertonschool-higher_level_programming/blob/master/javascript-web_jquery/html_files/1-main.html) in your browser |
 | <pre>[2-script.js](2-script.js)</pre><!--@schambig--> | Write a JavaScript script that updates the text color of the `<header>` element to red (`#FF0000`) when the user clicks on the tag `DIV#red_header`: |
 | <pre>[3-script.js](3-script.js)</pre><!--@schambig--> | Write a JavaScript script that adds the class `red` to the `<header>` element when the user clicks on the tag `DIV#red_header` |
 | <pre>[4-script.js](4-script.js)</pre><!--@schambig--> | Write a JavaScript script that toggles the class of the `<header>` element when the user clicks on the tag `DIV#toggle_header`: |
