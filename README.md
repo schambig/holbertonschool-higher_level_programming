@@ -55,7 +55,7 @@ Please follow the next directory order:
 | <pre>[python-input_output](python-input_output)</pre><!--@schambig--> | How to open a file, how to write text in a file, how to read the full content of a file, how to make sure a file is closed after using it, what is and how to use the `with` statement, what is `JSON`, what is serialization and deserialization, and more. |
 | <pre>[python-almost_a_circle](python-almost_a_circle)</pre><!--@schambig--> | What is Unit testing and how to implement it in a large project, how to serialize and deserialize a Class, What are `*args`, `**kwargs` and how to use them, how to handle named arguments in a function, and more. |
 | <pre>[SQL_introduction](SQL_introduction)</pre><!--@schambig--> | What’s a database, what’s a relational database, what’s in how to create a database in MySQL, what does `DDL` and `DML` stand for, what are subqueries and more. |
-| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[SQL_more_queries](SQL_more_queries)</pre><!--@schambig--> | How to create a new MySQL user, What’s a `PRIMARY KEY`, What’s a `FOREIGN KEY`, How to use `NOT NULL` and `UNIQUE` constraints, What are `JOIN` and `UNION`, and more |
 | <pre>[]()</pre><!--@schambig--> |  |
 | <pre>[]()</pre><!--@schambig--> |  |
 
