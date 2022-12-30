@@ -56,8 +56,11 @@ Please follow the next directory order:
 | <pre>[python-almost_a_circle](python-almost_a_circle)</pre><!--@schambig--> | What is Unit testing and how to implement it in a large project, how to serialize and deserialize a Class, What are `*args`, `**kwargs` and how to use them, how to handle named arguments in a function, and more. |
 | <pre>[SQL_introduction](SQL_introduction)</pre><!--@schambig--> | What’s a database, what’s a relational database, what’s in how to create a database in MySQL, what does `DDL` and `DML` stand for, what are subqueries and more. |
 | <pre>[SQL_more_queries](SQL_more_queries)</pre><!--@schambig--> | How to create a new MySQL user, What’s a `PRIMARY KEY`, What’s a `FOREIGN KEY`, How to use `NOT NULL` and `UNIQUE` constraints, What are `JOIN` and `UNION`, and more |
+| <pre>[javascript-warm_up](javascript-warm_up)</pre><!--@schambig--> | How to run a JavaScript script, what are differences between `var`, `const` and `let`, What are all the data types available in JavaScript, how to use the `if`, `if ... else` statements, scope of variables, how to import a file, and more |
 | <pre>[]()</pre><!--@schambig--> |  |
 | <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[]()</pre><!--@schambig--> |  |
+
 
 [Back to top](#high-level-programming)<!--@schambig-->
 
