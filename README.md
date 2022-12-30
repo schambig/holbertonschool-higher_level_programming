@@ -58,7 +58,7 @@ Please follow the next directory order:
 | <pre>[SQL_more_queries](SQL_more_queries)</pre><!--@schambig--> | How to create a new MySQL user, What’s a `PRIMARY KEY`, What’s a `FOREIGN KEY`, How to use `NOT NULL` and `UNIQUE` constraints, What are `JOIN` and `UNION`, and more |
 | <pre>[javascript-warm_up](javascript-warm_up)</pre><!--@schambig--> | How to run a JavaScript script, what are differences between `var`, `const` and `let`, What are all the data types available in JavaScript, how to use the `if`, `if ... else` statements, scope of variables, how to import a file, and more |
 | <pre>[javascript_objects_scopes_closures](javascript_objects_scopes_closures)</pre><!--@schambig--> | How to create an object in JavaScript, what `this` means, What `undefined` means, why the variable type and scope is important, what is a prototype, how to inherit an object from another, and more |
-| <pre>[]()</pre><!--@schambig--> |  |
+| <pre>[javascript-web_scraping](javascript-web_scraping)</pre><!--@schambig--> | How to manipulate JSON data, How to use `request` and fetch API, How to read and write a file using `fs` module, and more |
 | <pre>[]()</pre><!--@schambig--> |  |
 
 
