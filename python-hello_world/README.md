@@ -84,10 +84,10 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[0-run](0-run)</pre><!--@schambig--> | Write a Shell script that runs a Python script. The Python file name will be saved in the environment variable `$PYFILE` |
-| <pre>[1-run_inline](1-run_inline)</pre><!--@schambig--> | Write a Shell script that runs Python code. The Python code will be saved in the environment variable `$PYCODE` |
-| <pre>[2-print.py](2-print.py)</pre><!--@schambig--> | Write a Python script that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line. Use the function print |
-| <pre>[3-print_number.py](3-print_number.py)</pre><!--@schambig--> | Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/3-print_number.py) in order to print the integer stored in the variable `number`, followed by `Battery street`, followed by a new line. You are not allowed to cast the variable number into a string, Your code must be 3 lines long, You have to use f-strings [tips](https://realpython.com/python-f-strings/) |
+| <pre>[0-run](0-run)</pre><!--@schambig--> | Write a Shell script that runs a Python script.<br>The Python file name will be saved in the environment variable `$PYFILE` |
+| <pre>[1-run_inline](1-run_inline)</pre><!--@schambig--> | Write a Shell script that runs Python code.<br>The Python code will be saved in the environment variable `$PYCODE` |
+| <pre>[2-print.py](2-print.py)</pre><!--@schambig--> | Write a Python script that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line.<br>• Use the function `print` |
+| <pre>[3-print_number.py](3-print_number.py)</pre><!--@schambig--> | Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/3-print_number.py) in order to print the integer stored in the variable `number`, followed by `Battery street`, followed by a new line.<br>• You are not allowed to cast the variable `number` into a string<br>• Your code must be 3 lines long<br>• You have to use f-strings [tips](https://realpython.com/python-f-strings/) |
 | <pre>[4-print_float.py](4-print_float.py)</pre><!--@schambig--> | Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/4-print_float.py) in order to print the float stored in the variable `number` with a precision of 2 digits. You are not allowed to cast number to string, You have to use f-strings. |
 | <pre>[5-print_string.py](5-print_string.py)</pre><!--@schambig--> | Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/5-print_string.py) in order to print 3 times a string stored in the variable `str`, followed by its first 9 characters. You are not allowed to use any loops or conditional statement, Your program should be maximum 5 lines long. |
 | <pre>[6-concat.py](6-concat.py)</pre><!--@schambig--> | Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/6-concat.py) to print `Welcome to Holberton School!`. You are not allowed to use any loops or conditional statements, You have to use the variables `str1` and `str2` in your new line of code, Your program should be exactly 5 lines long. |
@@ -97,6 +97,8 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[100-write.py](100-write.py)</pre><!--@schambig--><!--@schambig--> | Write a Python script that prints exactly `and that piece of art is useful - Dora Korpar, 2015-10-19`, followed by a new line. Use the function `write` from the `sys` module, You are not allowed to use `print`, Your script should print to `stderr`, our script should exit with the status code `1`. |
 | <pre>[101-compile](101-compile)</pre><!--@schambig--> | Write a Shell script that compiles a Python script file. The Python file name will be stored in the environment variable `$PYFILE`, The output filename has to be `$PYFILEc` |
 | <pre>[102-magic_calculation.py](102-magic_calculation.py)</pre><!--@schambig--> | Write the Python function `def magic_calculation(a, b):` that does exactly the same as the following Python bytecode: <pre>  3           0 LOAD_CONST               1 (98)<br>              3 LOAD_FAST                0 (a)<br>              6 LOAD_FAST                1 (b)<br>              9 BINARY_POWER<br>             10 BINARY_ADD<br>             11 RETURN_VALUE</pre>  Tip: [Python bytecode](https://docs.python.org/3/library/dis.html). |
+<!-- <pre><br><br></pre> • <br>•-->
+
 
 ## Usage<!--@schambig-->
 
