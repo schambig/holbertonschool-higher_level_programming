@@ -48,9 +48,9 @@ This table contains a brief description of the working files of the project, cli
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[0-print_list_integer.py](0-print_list_integer.py)</pre><!--@schambig--> | Write a function that prints all integers of a list. |
-| <pre>[1-element_at.py](1-element_at.py)</pre><!--@schambig--> | Write a function that retrieves an element from a list like in C. |
-| <pre>[2-replace_in_list.py](2-replace_in_list.py)</pre><!--@schambig--> | Write a function that replaces an element of a list at a specific position (like in C). |
+| <pre>[0-print_list_integer.py](0-print_list_integer.py)</pre><!--@schambig--> | Write a function that prints all integers of a list.<br>• Prototype: `def print_list_integer(my_list=[]):`<br>• Format: one integer per line<br>• You are not allowed to import any module<br>• You can assume that the list only contains integers<br>• You are not allowed to cast integers into strings<br>• You have to use `str.format()` to print integers |
+| <pre>[1-element_at.py](1-element_at.py)</pre><!--@schambig--> | Write a function that retrieves an element from a list like in C.<br>• Prototype: `def element_at(my_list, idx):`<br>• If `idx` is negative, the function should return `None`<br>• If `idx` is out of range (> of number of element in `my_list`), the function should return `None`<br>• You are not allowed to import any module<br>• You are not allowed to use `try/except` |
+| <pre>[2-replace_in_list.py](2-replace_in_list.py)</pre><!--@schambig--> | Write a function that replaces an element of a list at a specific position (like in C).<br>• Prototype: `def replace_in_list(my_list, idx, element):`<br>• If `idx` is negative, the function should not modify anything, and returns the original list<br>• If `idx` is out of range (> of number of element in `my_list`), the function should not modify anything, and returns the original list<br>• You are not allowed to import any module<br>• You are not allowed to use `try/except` |
 | <pre>[3-print_reversed_list_integer.py](3-print_reversed_list_integer.py)</pre><!--@schambig--> | Write a function that prints all integers of a list, in reverse order. |
 | <pre>[4-new_in_list.py](4-new_in_list.py)</pre><!--@schambig--> | Write a function that replaces an element in a list at a specific position without modifying the original list (like in C). |
 | <pre>[5-no_c.py](5-no_c.py)</pre><!--@schambig--> | Write a function that removes all characters `c` and `C` from a string. |
@@ -61,6 +61,8 @@ This table contains a brief description of the working files of the project, cli
 | <pre>[10-divisible_by_2.py](10-divisible_by_2.py)</pre><!--@schambig--> | Write a function that finds all multiples of 2 in a list. |
 | <pre>[11-delete_at.py](11-delete_at.py)</pre><!--@schambig--> | Write a function that deletes the item at a specific position in a list. |
 | <pre>[12-switch.py](12-switch.py)</pre><!--@schambig--> | Complete the source code in order to switch value of `a` and `b`. |
+<!-- <pre><br><br></pre> • <br>•-->
+
 
 ## Usage<!--@schambig-->
 
