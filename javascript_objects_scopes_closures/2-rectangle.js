@@ -14,7 +14,7 @@
 module.exports = class Rectangle {
   constructor (w, h) {
     if ((h <= 0 || h === undefined) || (w <= 0 || w === undefined)) {
-      
+      // empty object
     } else {
       this.width = w;
       this.height = h;
