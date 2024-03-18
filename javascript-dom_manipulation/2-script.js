@@ -24,6 +24,11 @@ redHeader.addEventListener('click', function() {
 })
  */
 
+// add the css class `.red`, the dot is not needed this is because the classList property provides
+// a collection of the element's classes as a DOMTokenList object,
+// and you specify the class name directly as a parameter to classList.add().
+// The dot is part of the CSS syntax to denote class selectors,
+// but when working with JavaScript's classList, you only provide the class name itself
 redHeader.addEventListener('click', () => {
   header.classList.add('red');
 })
