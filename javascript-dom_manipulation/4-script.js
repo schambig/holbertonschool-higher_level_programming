@@ -1,4 +1,4 @@
-// Get a reference to the header and toggle_header elements
+// Get a reference to the header and add_item elements
 const ulElement = document.querySelector('ul');
 const addItem = document.getElementById('add_item');
 
