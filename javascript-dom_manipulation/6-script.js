@@ -25,6 +25,9 @@ async function displayCharacter() {
     const { name } = await res.json();
     // document.getElementById('character').innerHTML = name;
     document.getElementById('character').textContent = name;
+    // line above can be done in two lines (as follows) for more readability:
+    // const characterName = document.getElementById('character')
+    // characterName.textContent = name;
   } catch (e) {
     console.error('Error:', e);
   }
